@@ -48,3 +48,10 @@ I'm studying hard every day to make my dreams come true.<br>
   <img src="https://github-readme-stats.vercel.app/api?username=PSLeon24&show_icons=true">
 </div>
 
+---
+
+<p align="center">
+  <a href="https://github.com/PSLeon24" title="PSLeon24 GitHub">
+    <img src="https://img.shields.io/github/followers/PSLeon24?label=follow&style=social" alt-text="PSLeon24 GitHub" height="30"/>
+  </a>
+</p>
