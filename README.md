@@ -1,6 +1,6 @@
 ## Welcome to PSLeon24 Github 👋
-I'm Yeongmin studying AI & BigData in South Korea.<br>
-My dream is AI researcher & Data scientist.<br>
+I'm Yeongmin, studying AI & BigData in South Korea.<br>
+My ambition is to become a AI researcher and data scientist.<br>
 I'm studying hard every day to make my dreams come true.<br><br>
 <div>
   <a href="https://psleon.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
