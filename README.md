@@ -38,7 +38,7 @@ I'm studying hard every day to make my dreams come true.<br><br>
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20aColab-F9AB00?style=for-the-badge&logo=Google%20aColab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20aColab&logoColor=white"/>
 </div>
 <br>
 <div>
