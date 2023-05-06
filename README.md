@@ -40,7 +40,7 @@ I'm studying hard every day to make my dreams come true.<br><br>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20aColab-F9AB00?style=for-the-badge&logo=Google%20aColab&logoColor=white"/>
 </div>
-
+<br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSLeon24&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=PSLeon24&show_icons=true">
