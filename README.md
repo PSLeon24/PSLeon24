@@ -1,11 +1,14 @@
 ## Welcome to PSLeon24 Github 👋
 I'm Yeongmin, studying AI & BigData in South Korea 🇰🇷.<br>
 My ambition is to become a AI researcher and data scientist.<br>
-I'm studying hard every day to make my dreams come true.<br><br>
+I'm studying hard every day to make my dreams come true.<br>
+### Where to find me
 <div>
-  <a href="https://psleon.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+  <a href="https://psleon.tistory.com"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <a href="https://github.com/PSLeon24"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPSLeon8245%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </div>
+<br>
 
 ## 💻 Tech Stack
 <h3>AI</h3>
@@ -33,7 +36,6 @@ I'm studying hard every day to make my dreams come true.<br><br>
 </div>
 <h3>etc</h3>
 <div>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
