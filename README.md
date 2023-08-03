@@ -48,7 +48,7 @@ I'm studying hard every day to make my dreams come true.<br>
 </div>
 <br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSLeon24&hide=jupyter%20notebook&theme=radical&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSLeon24&hide=jupyter%20notebook,c%2B%2B,c,makefile,cmake&theme=radical&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api?username=PSLeon24&theme=radical&show_icons=true">
 </div>
 
