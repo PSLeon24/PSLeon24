@@ -1,5 +1,5 @@
 ## Welcome to PSLeon24 Github 👋
-I'm Yeongmin, studying AI & BigData in South Korea 🇰🇷.<br>
+Hi there~ 👋, I'm Yeongmin studying AI & Data Science in South Korea 🇰🇷.<br>
 My ambition is to become a AI researcher and data scientist.<br>
 I'm studying hard every day to make my dreams come true.<br>
 ### Where to find me
@@ -50,7 +50,6 @@ I'm studying hard every day to make my dreams come true.<br>
 <br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSLeon24&hide=jupyter%20notebook,c%2B%2B,c,makefile,cmake&theme=radical&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api?username=PSLeon24&theme=radical&show_icons=true">
 </div>
 
 ---
