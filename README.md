@@ -1,5 +1,6 @@
 ## Welcome to PSLeon24 Github 👋
-Hi there~ 👋, I'm Yeongmin studying AI & Data Science in South Korea.<br>
+![pixel-night-banner](https://github.com/PSLeon24/PSLeon24/assets/59058869/16f7a08f-ec50-4058-aa1d-478d4514ede6)
+Hi there~ 👋, I'm Yeongmin, a college student. And I'm currently learning AI & Data Science.<br>
 My ambition is to become a AI researcher and data scientist.<br>
 I'm studying hard every day to make my dreams come true.<br>
 ### Where to find me
