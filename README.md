@@ -44,8 +44,8 @@ I'm studying hard every day to make my dreams come true.</b><br>
     <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20aColab&logoColor=white"/>
 </div>
 <br>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSLeon24&hide=jupyter%20notebook,c%2B%2B,c,makefile,cmake&theme=radical&layout=compact">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSLeon24&custom_title=PSLeon's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="PSLeon's Github Activity Graph" width="100%">
 </div>
 
 ---
@@ -55,3 +55,4 @@ I'm studying hard every day to make my dreams come true.</b><br>
     <img src="https://img.shields.io/github/followers/PSLeon24?label=follow&style=social" alt-text="PSLeon24 GitHub" height="30"/>
   </a>
 </p>
+
