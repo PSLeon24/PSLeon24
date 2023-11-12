@@ -54,7 +54,7 @@ I'm studying hard every day to make my dreams come true.</b><br>
 |2|Piano_Keyboard_Detection|The keyboard detector model using YOLOv5 and SSD-MobileNet|23/08/01~23/08/10|<a href="https://github.com/PSLeon24/Piano_Keyboard_Detection">read more</a>|
 |3|CEM_Community|Computer Engineering Major Community Homepage|23/10/13~ing|<a href="https://github.com/PSLeon24/CEM_Community">read more</a>|
 |4|Israeli-Palestinian_Data_Analysis|a Fatalities in the Israeli-Palestinian Data Analysis|23/10/28~ing|<a href="https://github.com/PSLeon24/Israeli-Palestinian_Data_Analysis_Project">read more</a>|
-|5|닮은 애니 캐릭터 찾기|Teachable Machine을 활용한 닮은 애니 캐릭터 찾기 서비스|20/07/28~20/08/20|<a href="https://animefaceai.netlify.app/">link</a><br><a href="https://github.com/PSLeon24/animefaceai">read more</a>|
+|5|닮은 애니 캐릭터 찾기|Teachable Machine을 활용한 닮은 애니 캐릭터 찾기 서비스|20/07/28~20/08/20|1) <a href="https://github.com/PSLeon24/animefaceai">read more</a><br>2) <a href="https://animefaceai.netlify.app/">link</a>|
 
     
 <div align="center">
