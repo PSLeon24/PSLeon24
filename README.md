@@ -46,7 +46,7 @@ I'm studying hard every day to make my dreams come true.</b><br>
 </div>
 <br>
   
-## 🔥 Projects
+## 🔥 AI & Development Projects
 
 |No|Title|Description|Date|link|
 |:--:|:--:|:--:|:--:|:--:|
@@ -54,9 +54,17 @@ I'm studying hard every day to make my dreams come true.</b><br>
 |2|Piano_Keyboard_Detection|The keyboard detector model using YOLOv5 and SSD-MobileNet|23/08/01~23/08/10|<a href="https://github.com/PSLeon24/Piano_Keyboard_Detection">read more</a>|
 |3|CEM_Community|Computer Engineering Major Community Homepage|23/10/13~ing|<a href="https://github.com/PSLeon24/CEM_Community">read more</a>|
 |4|Israeli-Palestinian_Data_Analysis|a Fatalities in the Israeli-Palestinian Data Analysis|23/10/28~ing|<a href="https://github.com/PSLeon24/Israeli-Palestinian_Data_Analysis_Project">read more</a>|
-|5|닮은 애니 캐릭터 찾기|Teachable Machine을 활용한 닮은 애니 캐릭터 찾기 서비스|20/07/28~20/08/20|1) <a href="https://github.com/PSLeon24/animefaceai">read more</a><br>2) <a href="https://animefaceai.netlify.app/">link</a>|
+|5|Stack_Overflow_Developer_Survey_Data_Analysis|the 2023 Developer Survey Data Analysis Project|23/11/18~ing|<a href="https://github.com/PSLeon24/Stack_Overflow_Developer_Survey_Data_Analysis">read more</a>|
+|6|일기 앱 '오늘, 하루'|Android Project|22.11.01~22.12.08|<a href="https://github.com/PSLeon24/Today-Diary">read more</a>|
+|7|닮은 애니 캐릭터 찾기|Teachable Machine을 활용한 닮은 애니 캐릭터 찾기 서비스|20/07/28~20/08/20|1) <a href="https://github.com/PSLeon24/animefaceai">read more</a><br>2) <a href="https://animefaceai.netlify.app/">link</a>|
+|8|오징어 게임 성향 분석 문답|Java Script를 활용한 오징어 게임 성향 분석 문답|21/10/05~21/10/18|<a href="https://squid-games.netlify.app/">link</a>|
 
-    
+## 📰 News
+- 네이버 블로그와 모 중학교 게시판에 XSS 취약점 발견
+  - <a href="https://www.dailysecu.com/news/articleView.html?idxno=5998">read more</a>
+- 카카오톡-카카오스토리 등 하이퍼링크로 인한 문제점 발견
+  - <a href="https://www.dailysecu.com/news/articleView.html?idxno=6412">read more</a>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSLeon24&custom_title=PSLeon's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="PSLeon's Github Activity Graph" width="100%">
 </div>
