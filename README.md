@@ -58,10 +58,10 @@ I'm studying hard every day to make my dreams come true.</b><br>
 |:--:|:--:|:--:|:--:|:--:|
 |1|AI_Exercise_Pose_Feedback<br><a href="https://github.com/PSLeon24/AI_Exercise_Pose_Feedback/blob/main/PAPER/YOLOv5%20%EB%B0%8F%20MediaPipe%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%8B%A4%EC%8B%9C%EA%B0%84%203%EB%8C%80%20%EC%9A%B4%EB%8F%99%20AI%20%EC%9E%90%EC%84%B8%20%EA%B5%90%EC%A0%95%20%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%97%B0%EA%B5%AC.pdf">paper</a>|A Study on the big three exercises AI posture correction service Using YOLOv5 and MediaPipe|23/09/01~23/11/20|<a href="https://github.com/PSLeon24/AI_Exercise_Pose_Feedback">read more</a>|
 |2|Piano_Keyboard_Detection|The keyboard detector model using YOLOv5 and SSD-MobileNet|23/08/01~23/08/10|<a href="https://github.com/PSLeon24/Piano_Keyboard_Detection">read more</a>|
-|3|CEM_Community|Computer Engineering Major Community Homepage|23/10/13~ing|<a href="https://github.com/PSLeon24/CEM_Community">read more</a>|
+|3|CEM_Community|Computer Engineering Major Community Homepage|23/10/13~23/12/19|<a href="https://github.com/PSLeon24/CEM_Community">read more</a>|
 |4|<a href="https://www.kaggle.com/code/psleon8245/middle-east-war-data-analysis-project/notebook">Israeli-Palestinian_Data_Analysis</a>|a Fatalities in the Israeli-Palestinian Data Analysis|23/10/28~23/12/08|<a href="https://github.com/PSLeon24/Israeli-Palestinian_Data_Analysis_Project">read more</a>|
 |5|Stack_Overflow_Developer_Survey_Data_Analysis|the 2023 Developer Survey Data Analysis Project|23/11/18~23/12/08|<a href="https://github.com/PSLeon24/Stack_Overflow_Developer_Survey_Data_Analysis">read more</a>|
-|6|일기 앱 '오늘, 하루'|Android Project|22.11.01~22.12.08|<a href="https://github.com/PSLeon24/Today-Diary">read more</a>|
+|6|일기 앱 '오늘, 하루'|Android Project|22/11/01~22/12/08|<a href="https://github.com/PSLeon24/Today-Diary">read more</a>|
 |7|닮은 애니 캐릭터 찾기|Teachable Machine을 활용한 닮은 애니 캐릭터 찾기 서비스|20/07/28~20/08/20|1) <a href="https://github.com/PSLeon24/animefaceai">read more</a><br>2) <a href="https://animefaceai.netlify.app/">link</a>|
 |8|오징어 게임 성향 분석 문답|Java Script를 활용한 오징어 게임 성향 분석 문답|21/10/05~21/10/18|<a href="https://squid-games.netlify.app/">link</a>|
 
