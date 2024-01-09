@@ -2,7 +2,7 @@
 ![pixel-night-banner](https://github.com/PSLeon24/PSLeon24/assets/59058869/16f7a08f-ec50-4058-aa1d-478d4514ede6)
 <br>
 <b>Hi there~ 👋, I'm Yeongmin, a college student. And I'm interested in AI, especially Computer Vision.<br>
-My ambition is to become a AI researcher and data scientist.<br>
+My ambition is to become an AI researcher and data scientist.<br>
 I'm studying hard every day to make my dreams come true.</b><br>
 ### Where to find me
 <div>
