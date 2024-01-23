@@ -1,9 +1,7 @@
 ## Welcome to PSLeon24 Github 👋
 ![pixel-night-banner](https://github.com/PSLeon24/PSLeon24/assets/59058869/16f7a08f-ec50-4058-aa1d-478d4514ede6)
 <br>
-<b>Hi there~ 👋, I'm Yeongmin, a college student. And I'm interested in AI, especially Computer Vision.<br>
-My ambition is to become an AI researcher and data scientist.<br>
-I'm studying hard every day to make my dreams come true.</b><br>
+<b>Hello! 👋 I'm Yeongmin, a college student with a passion for AI, specifically in Computer Vision. Aspiring to be an AI researcher and data scientist, I'm dedicated to daily studies, striving to turn my dreams into reality.</b><br>
 ### Where to find me
 <div>
   <a href="https://github.com/PSLeon24"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"/></a>
