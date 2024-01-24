@@ -46,7 +46,10 @@
     <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
     <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-
+  <h3>Mathematical Knowledge for Data Science</h3>
+    1. Linear Algebra - <a href="https://github.com/PSLeon24/Linear_Algebra">read more</a><br>
+    2. Mathematical Statistics - <a href="https://github.com/PSLeon24/Mathematical_Statistics">read more</a><br>
+    3. Calculus - <a href="https://github.com/PSLeon24/Calculus">read more</a>
 </div>
 <br>
   
