@@ -68,6 +68,7 @@ Aspiring to carve my path as an AI researcher and data scientist, I ardently com
 |7|일기 앱 '오늘, 하루'|Android Project|22/11/01~22/12/08|<a href="https://github.com/PSLeon24/Today-Diary">read more</a>|
 |8|닮은 애니 캐릭터 찾기|Teachable Machine을 활용한 닮은 애니 캐릭터 찾기 서비스|20/07/28~20/08/20|1) <a href="https://github.com/PSLeon24/animefaceai">read more</a><br>2) <a href="https://animefaceai.netlify.app/">link</a>|
 |9|오징어 게임 성향 분석 문답|Java Script를 활용한 오징어 게임 성향 분석 문답|21/10/05~21/10/18|<a href="https://squid-games.netlify.app/">link</a>|
+|10|EDA on Student Study Performance|Kaggle|24/04/03|<a href="https://www.kaggle.com/code/psleon8245/eda-on-student-study-performance">read more</a>|
 
 ## 📰 News
 - 네이버 블로그와 모 중학교 게시판에 XSS 취약점 발견
