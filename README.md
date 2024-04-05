@@ -10,6 +10,8 @@ Aspiring to carve my path as an AI researcher and data scientist, I ardently com
   <a href="https://psleon.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPSLeon8245%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psleon)](https://solved.ac/psleon/)
 <br>
 
 ## 💻 Tech Stack
@@ -48,6 +50,7 @@ Aspiring to carve my path as an AI researcher and data scientist, I ardently com
     <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
     <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  
   <h3>Mathematical Knowledge for Data Science</h3>
     1. Linear Algebra - <a href="https://github.com/PSLeon24/Linear_Algebra">read more</a><br>
     2. Mathematical Statistics - <a href="https://github.com/PSLeon24/Mathematical_Statistics">read more</a><br>
