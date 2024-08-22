@@ -56,7 +56,8 @@ Aspiring to carve my path as an AI researcher and data scientist, I ardently com
     2. Mathematical Statistics - <a href="https://github.com/PSLeon24/Mathematical_Statistics">in more detail</a><br>
     3. Calculus - <a href="https://github.com/PSLeon24/Calculus">in more detail</a><br>
     4. AI - <a href="https://github.com/PSLeon24/Artificial_Intelligence">in more detail</a><br>
-    5. Paper-Implementation-with-PyTorch - <a href="https://github.com/PSLeon24/Paper-Implementation-with-PyTorch">in more detail</a>
+    5. Pytorch - <a href="https://github.com/PSLeon24/PyTorch_Tutorial">in more detail</a><br>
+    6. Paper-Implementation-with-PyTorch - <a href="https://github.com/PSLeon24/Paper-Implementation-with-PyTorch">in more detail</a>
 </div>
 <br>
   
