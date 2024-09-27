@@ -2,7 +2,7 @@
 ![pixel-night-banner](https://github.com/PSLeon24/PSLeon24/assets/59058869/16f7a08f-ec50-4058-aa1d-478d4514ede6)
 <br>
 <b>Greetings! 👋<br>
-I'm Yeongmin, a driven graduate student in the Visual Intelligence and Perception Laboratory at Pusan National Unversity deeply fascinated by the realms of AI, particularly in the Adversarial Attack.<br>
+I'm Yeongmin, a driven graduate student in the Visual Intelligence and Perception Laboratory at Pusan National Unversity deeply fascinated by the realms of Computer Vision, particularly in the Adversarial Attack.<br>
 Aspiring to carve my path as an AI researcher and data scientist, I ardently commit each day to the pursuit of transforming ambitious dreams into tangible achievements.
 My current research interests include adversarial attack, artificial intelligence, enhancing exercise posture evaluation systems and leveraging advanced techniques for evaluating piano performances.</b><br>
 ### Where to find me
