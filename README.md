@@ -4,7 +4,7 @@
 <b>Greetings! 👋<br>
 I'm Yeongmin, a driven college student deeply fascinated by the realms of AI, particularly in the dynamic field of Computer Vision.<br>
 Aspiring to carve my path as an AI researcher and data scientist, I ardently commit each day to the pursuit of transforming ambitious dreams into tangible achievements.
-My current research interests include artificial intelligence, enhancing exercise posture evaluation systems and leveraging advanced techniques for evaluating piano performances.</b><br>
+My current research interests include adversarial attack, artificial intelligence, enhancing exercise posture evaluation systems and leveraging advanced techniques for evaluating piano performances.</b><br>
 ### Where to find me
 <div>
   <a href="https://github.com/PSLeon24"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"/></a>
