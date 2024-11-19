@@ -66,7 +66,7 @@ My current research interests include adversarial attack, artificial intelligenc
 
 |No|Title|Description|Date|Link|
 |:--:|:--:|:--:|:--:|:--:|
-|1|Deepfake Shield|Deepfake-Shield is a system designed to counter deepfake technology by introducing methods that actively disrupt the deepfake generation process or degrade the quality of deepfakes to make them less convincing.|ongoing|<a href="https://github.com/PSLeon24/Deepfake-Shield">read more</a>|
+|1|Deepfake Shield|Deepfake-Shield is a system designed to counter deepfake technology by introducing methods that actively disrupt the deepfake generation process or degrade the quality of deepfakes to make them less convincing.|ongoing|<a href="#">private</a>|
 |2|AI_Exercise_Pose_Feedback<br><a href="https://github.com/PSLeon24/AI_Exercise_Pose_Feedback/blob/main/PAPER/YOLOv5%20%EB%B0%8F%20MediaPipe%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%8B%A4%EC%8B%9C%EA%B0%84%203%EB%8C%80%20%EC%9A%B4%EB%8F%99%20AI%20%EC%9E%90%EC%84%B8%20%EA%B5%90%EC%A0%95%20%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%97%B0%EA%B5%AC.pdf">paper</a>|A Study on the big three exercises AI posture correction service Using YOLOv5 and MediaPipe|23/09/01~23/11/20|<a href="https://github.com/PSLeon24/AI_Exercise_Pose_Feedback">read more</a>|
 |3|Piano_Keyboard_Detection|The keyboard detector model using YOLOv5 and SSD-MobileNet|23/08/01~23/08/10|<a href="https://github.com/PSLeon24/Piano_Keyboard_Detection">read more</a>|
 |4|CEM_Community|Computer Engineering Major Community Homepage|23/10/13~23/12/19|<a href="https://github.com/PSLeon24/CEM_Community">read more</a>|
