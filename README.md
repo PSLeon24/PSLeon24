@@ -69,7 +69,7 @@ My current research interests include adversarial attack, artificial intelligenc
 
 |No|Title|Description|Date|Link|
 |:--:|:--:|:--:|:--:|:--:|
-|1|Deepfake Shield|Deepfake-Shield is a system designed to counter deepfake technology by introducing methods that actively disrupt the deepfake generation process or degrade the quality of deepfakes to make them less convincing.|ongoing|<a href="#">private</a>|
+|1|Anti-StableDiffusion|Anti-StableDiffusion is a novel adversarial attack method disrupting deepfake generation via Stable Diffusion Img2Img Pipeline.|24/10/01~24/12/20|<a href="[#](https://github.com/PSLeon24/Anti-StableDiffusion)">private</a>|
 |2|Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe<br><a href="https://ieeexplore.ieee.org/abstract/document/10798440">paper</a>|A Study on the big three exercises AI posture correction service Using YOLOv5 and MediaPipe|23/09/01~23/11/20|<a href="https://github.com/PSLeon24/AI_Exercise_Pose_Feedback">read more</a>|
 |3|Piano_Keyboard_Detection|The keyboard detector model using YOLOv5 and SSD-MobileNet|23/08/01~23/08/10|<a href="https://github.com/PSLeon24/Piano_Keyboard_Detection">read more</a>|
 |4|CEM_Community|Computer Engineering Major Community Homepage|23/10/13~23/12/19|<a href="https://github.com/PSLeon24/CEM_Community">read more</a>|
