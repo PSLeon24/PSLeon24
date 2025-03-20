@@ -69,17 +69,17 @@ My current research interests include adversarial attack, artificial intelligenc
 
 |No|Title|Description|Date|Link|
 |:--:|:--:|:--:|:--:|:--:|
-|1|Anti-StableDiffusion|Anti-StableDiffusion is a novel adversarial attack method disrupting deepfake generation via Stable Diffusion Img2Img Pipeline.|24/10/01~24/12/20|<a href="[#](https://github.com/PSLeon24/Anti-StableDiffusion)">private</a>|
-|2|Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe<br><a href="https://ieeexplore.ieee.org/abstract/document/10798440">paper</a>|A Study on the big three exercises AI posture correction service Using YOLOv5 and MediaPipe|23/09/01~23/11/20|<a href="https://github.com/PSLeon24/AI_Exercise_Pose_Feedback">read more</a>|
-|3|Piano_Keyboard_Detection|The keyboard detector model using YOLOv5 and SSD-MobileNet|23/08/01~23/08/10|<a href="https://github.com/PSLeon24/Piano_Keyboard_Detection">read more</a>|
-|4|CEM_Community|Computer Engineering Major Community Homepage|23/10/13~23/12/19|<a href="https://github.com/PSLeon24/CEM_Community">read more</a>|
-|5|MinFlix|A movie review web service with React|24/01/03~24/01/07|<a href="https://github.com/PSLeon24/MinFlix">read more</a>|
+|1|Anti-StableDiffusion|Anti-StableDiffusion is a novel adversarial attack method disrupting deepfake generation via Stable Diffusion Img2Img Pipeline.|24/10/01~24/12/20|<a href="https://github.com/PSLeon24/Anti-StableDiffusion">Read More</a>|
+|2|Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe<br><a href="https://ieeexplore.ieee.org/abstract/document/10798440">paper</a>|A Study on the big three exercises AI posture correction service Using YOLOv5 and MediaPipe|23/09/01~23/11/20|<a href="https://github.com/PSLeon24/AI_Exercise_Pose_Feedback">Read More</a>|
+|3|Piano_Keyboard_Detection|The keyboard detector model using YOLOv5 and SSD-MobileNet|23/08/01~23/08/10|<a href="https://github.com/PSLeon24/Piano_Keyboard_Detection">Read More</a>|
+|4|CEM_Community|Computer Engineering Major Community Homepage|23/10/13~23/12/19|<a href="https://github.com/PSLeon24/CEM_Community">Read More</a>|
+|5|MinFlix|A movie review web service with React|24/01/03~24/01/07|<a href="https://github.com/PSLeon24/MinFlix">Read More</a>|
 |6|<a href="https://www.kaggle.com/code/psleon8245/middle-east-war-data-analysis-project/notebook">Israeli-Palestinian_Data_Analysis</a>|Fatalities in the Israeli-Palestinian Data Analysis|23/10/28~23/12/08|<a href="https://github.com/PSLeon24/Israeli-Palestinian_Data_Analysis_Project">read more</a>|
-|7|Stack_Overflow_Developer_Survey_Data_Analysis|the 2023 Developer Survey Data Analysis Project|23/11/18~23/12/08|<a href="https://github.com/PSLeon24/Stack_Overflow_Developer_Survey_Data_Analysis">read more</a>|
-|8|일기 앱 '오늘, 하루'|Android Project|22/11/01~22/12/08|<a href="https://github.com/PSLeon24/Today-Diary">read more</a>|
-|9|닮은 애니 캐릭터 찾기|Teachable Machine을 활용한 닮은 애니 캐릭터 찾기 서비스|20/07/28~20/08/20|1) <a href="https://github.com/PSLeon24/animefaceai">read more</a><br>2) <a href="https://animefaceai.netlify.app/">link</a>|
-|10|오징어 게임 성향 분석 문답|Java Script를 활용한 오징어 게임 성향 분석 문답|21/10/05~21/10/18|<a href="https://squid-games.netlify.app/">link</a>|
-|11|<a href="https://www.kaggle.com/code/psleon8245/eda-on-student-study-performance">EDA on Student Study Performance|AI subject midterm project</a>|24/04/03|<a href="https://github.com/PSLeon24/Artificial_Intelligence/tree/main/Mid-Term%20Project">read more</a>|
+|7|Stack_Overflow_Developer_Survey_Data_Analysis|the 2023 Developer Survey Data Analysis Project|23/11/18~23/12/08|<a href="https://github.com/PSLeon24/Stack_Overflow_Developer_Survey_Data_Analysis">Read More</a>|
+|8|일기 앱 '오늘, 하루'|Android Project|22/11/01~22/12/08|<a href="https://github.com/PSLeon24/Today-Diary">Read More</a>|
+|9|닮은 애니 캐릭터 찾기|Teachable Machine을 활용한 닮은 애니 캐릭터 찾기 서비스|20/07/28~20/08/20|1) <a href="https://github.com/PSLeon24/animefaceai">read more</a><br>2) <a href="https://animefaceai.netlify.app/">Visit</a>|
+|10|오징어 게임 성향 분석 문답|Java Script를 활용한 오징어 게임 성향 분석 문답|21/10/05~21/10/18|<a href="https://squid-games.netlify.app/">Visit</a>|
+|11|<a href="https://www.kaggle.com/code/psleon8245/eda-on-student-study-performance">EDA on Student Study Performance|AI subject midterm project</a>|24/04/03|<a href="https://github.com/PSLeon24/Artificial_Intelligence/tree/main/Mid-Term%20Project">Read More</a>|
 
 ## 📰 News
 - 네이버 블로그와 모 중학교 게시판에 XSS 취약점 발견
