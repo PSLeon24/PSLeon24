@@ -16,7 +16,7 @@ My current research interests include adversarial attack, artificial intelligenc
 <br>
 ## 📘 Publications
 1. Ko, Yeong-Min, Aziz Nasridinov, and So-Hyun Park. "Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe." IEEE Access (2024).
-2. Ko, Yeongmin, Park, Hyeonsu, and Park, Jinsun. "Disrupting Deepfake Generation with KL Divergence-based Adversarial Attacks." Autumn Annual Conference of IEIE (2024): 1178-1182. - Best Paper Award
+2. Ko, Yeongmin, Park, Hyeonsu, and Park, Jinsun. "Disrupting Deepfake Generation with KL Divergence-based Adversarial Attacks." Autumn Annual Conference of IEIE (2024): 1178-1182. - Paper Award
 
 ## 💻 Tech Stack
 <div>
