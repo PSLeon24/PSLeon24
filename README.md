@@ -9,7 +9,6 @@ My current research interests include adversarial attack, artificial intelligenc
 <div>
   <a href="https://github.com/PSLeon24"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"/></a>
   <a href="https://psleon.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPSLeon8245%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psleon)](https://solved.ac/psleon/)
@@ -17,6 +16,7 @@ My current research interests include adversarial attack, artificial intelligenc
 ## 📘 Publications
 1. Ko, Yeong-Min, Aziz Nasridinov, and So-Hyun Park. "Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe." IEEE Access (2024).
 2. Ko, Yeongmin, Park, Hyeonsu, and Park, Jinsun. "Disrupting Deepfake Generation with KL Divergence-based Adversarial Attacks." Autumn Annual Conference of IEIE (2024): 1178-1182. - Paper Award
+3. Ko, Yeongmin, Park, Hyeonsu, and Park, Jinsun. "Stable Diffusion-based Deepfake Creation Disruption using Adversarial Attacks." IPIU (2025).
 
 ## 💻 Tech Stack
 <div>
@@ -51,17 +51,16 @@ My current research interests include adversarial attack, artificial intelligenc
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
     <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
-    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
     <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   
   <h3>Mathematical and AI Backgrounds for Data Science</h3>
-    1. Linear Algebra - <a href="https://github.com/PSLeon24/Linear_Algebra">in more detail</a><br>
-    2. Mathematical Statistics - <a href="https://github.com/PSLeon24/Mathematical_Statistics">in more detail</a><br>
-    3. Calculus - <a href="https://github.com/PSLeon24/Calculus">in more detail</a><br>
-    4. AI - <a href="https://github.com/PSLeon24/Artificial_Intelligence">in more detail</a><br>
-    5. Pytorch - <a href="https://github.com/PSLeon24/PyTorch_Tutorial">in more detail</a><br>
-    6. Paper-Implementation-with-PyTorch - <a href="https://github.com/PSLeon24/Paper-Implementation-with-PyTorch">in more detail</a>
+    1. Linear Algebra - <a href="https://github.com/PSLeon24/Linear_Algebra">learn more</a><br>
+    2. Mathematical Statistics - <a href="https://github.com/PSLeon24/Mathematical_Statistics">learn more</a><br>
+    3. Calculus - <a href="https://github.com/PSLeon24/Calculus">learn more</a><br>
+    4. AI - <a href="https://github.com/PSLeon24/Artificial_Intelligence">learn more</a><br>
+    5. Pytorch - <a href="https://github.com/PSLeon24/PyTorch_Tutorial">learn more</a><br>
+    6. Paper-Implementation-with-PyTorch - <a href="https://github.com/PSLeon24/Paper-Implementation-with-PyTorch">learn more</a>
 </div>
 <br>
   
@@ -69,23 +68,23 @@ My current research interests include adversarial attack, artificial intelligenc
 
 |No|Title|Description|Date|Link|
 |:--:|:--:|:--:|:--:|:--:|
-|1|Anti-StableDiffusion|Anti-StableDiffusion is a novel adversarial attack method disrupting deepfake generation via Stable Diffusion Img2Img Pipeline.|24/10/01~24/12/20|<a href="https://github.com/PSLeon24/Anti-StableDiffusion">Read More</a>|
-|2|Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe<br><a href="https://ieeexplore.ieee.org/abstract/document/10798440">paper</a>|A Study on the big three exercises AI posture correction service Using YOLOv5 and MediaPipe|23/09/01~23/11/20|<a href="https://github.com/PSLeon24/AI_Exercise_Pose_Feedback">Read More</a>|
-|3|Piano_Keyboard_Detection|The keyboard detector model using YOLOv5 and SSD-MobileNet|23/08/01~23/08/10|<a href="https://github.com/PSLeon24/Piano_Keyboard_Detection">Read More</a>|
-|4|CEM_Community|Computer Engineering Major Community Homepage|23/10/13~23/12/19|<a href="https://github.com/PSLeon24/CEM_Community">Read More</a>|
-|5|MinFlix|A movie review web service with React|24/01/03~24/01/07|<a href="https://github.com/PSLeon24/MinFlix">Read More</a>|
-|6|<a href="https://www.kaggle.com/code/psleon8245/middle-east-war-data-analysis-project/notebook">Israeli-Palestinian_Data_Analysis</a>|Fatalities in the Israeli-Palestinian Data Analysis|23/10/28~23/12/08|<a href="https://github.com/PSLeon24/Israeli-Palestinian_Data_Analysis_Project">read more</a>|
-|7|Stack_Overflow_Developer_Survey_Data_Analysis|the 2023 Developer Survey Data Analysis Project|23/11/18~23/12/08|<a href="https://github.com/PSLeon24/Stack_Overflow_Developer_Survey_Data_Analysis">Read More</a>|
-|8|일기 앱 '오늘, 하루'|Android Project|22/11/01~22/12/08|<a href="https://github.com/PSLeon24/Today-Diary">Read More</a>|
-|9|닮은 애니 캐릭터 찾기|Teachable Machine을 활용한 닮은 애니 캐릭터 찾기 서비스|20/07/28~20/08/20|1) <a href="https://github.com/PSLeon24/animefaceai">read more</a><br>2) <a href="https://animefaceai.netlify.app/">Visit</a>|
+|1|Anti-StableDiffusion|Anti-StableDiffusion is a novel adversarial attack method disrupting deepfake generation via Stable Diffusion Img2Img Pipeline.|24/10/01~24/12/20|<a href="https://github.com/PSLeon24/Anti-StableDiffusion">Learn More</a>|
+|2|Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe<br><a href="https://ieeexplore.ieee.org/abstract/document/10798440">paper</a>|A Study on the big three exercises AI posture correction service Using YOLOv5 and MediaPipe|23/09/01~23/11/20|<a href="https://github.com/PSLeon24/AI_Exercise_Pose_Feedback">Learn More</a>|
+|3|Piano_Keyboard_Detection|The keyboard detector model using YOLOv5 and SSD-MobileNet|23/08/01~23/08/10|<a href="https://github.com/PSLeon24/Piano_Keyboard_Detection">Learn More</a>|
+|4|CEM_Community|Computer Engineering Major Community Homepage|23/10/13~23/12/19|<a href="https://github.com/PSLeon24/CEM_Community">Learn More</a>|
+|5|MinFlix|A movie review web service with React|24/01/03~24/01/07|<a href="https://github.com/PSLeon24/MinFlix">Learn More</a>|
+|6|<a href="https://www.kaggle.com/code/psleon8245/middle-east-war-data-analysis-project/notebook">Israeli-Palestinian_Data_Analysis</a>|Fatalities in the Israeli-Palestinian Data Analysis|23/10/28~23/12/08|<a href="https://github.com/PSLeon24/Israeli-Palestinian_Data_Analysis_Project">Learn More</a>|
+|7|Stack_Overflow_Developer_Survey_Data_Analysis|the 2023 Developer Survey Data Analysis Project|23/11/18~23/12/08|<a href="https://github.com/PSLeon24/Stack_Overflow_Developer_Survey_Data_Analysis">Learn More</a>|
+|8|일기 앱 '오늘, 하루'|Android Project|22/11/01~22/12/08|<a href="https://github.com/PSLeon24/Today-Diary">Learn More</a>|
+|9|닮은 애니 캐릭터 찾기|Teachable Machine을 활용한 닮은 애니 캐릭터 찾기 서비스|20/07/28~20/08/20|1) <a href="https://github.com/PSLeon24/animefaceai">Learn More</a><br>2) <a href="https://animefaceai.netlify.app/">Visit</a>|
 |10|오징어 게임 성향 분석 문답|Java Script를 활용한 오징어 게임 성향 분석 문답|21/10/05~21/10/18|<a href="https://squid-games.netlify.app/">Visit</a>|
-|11|<a href="https://www.kaggle.com/code/psleon8245/eda-on-student-study-performance">EDA on Student Study Performance|AI subject midterm project</a>|24/04/03|<a href="https://github.com/PSLeon24/Artificial_Intelligence/tree/main/Mid-Term%20Project">Read More</a>|
+|11|<a href="https://www.kaggle.com/code/psleon8245/eda-on-student-study-performance">EDA on Student Study Performance|AI subject midterm project</a>|24/04/03|<a href="https://github.com/PSLeon24/Artificial_Intelligence/tree/main/Mid-Term%20Project">Learn More</a>|
 
 ## 📰 News
 - 네이버 블로그와 모 중학교 게시판에 XSS 취약점 발견
-  - <a href="https://www.dailysecu.com/news/articleView.html?idxno=5998">read more</a>
+  - <a href="https://www.dailysecu.com/news/articleView.html?idxno=5998">Learn More</a>
 - 카카오톡-카카오스토리 등 하이퍼링크로 인한 문제점 발견
-  - <a href="https://www.dailysecu.com/news/articleView.html?idxno=6412">read more</a>
+  - <a href="https://www.dailysecu.com/news/articleView.html?idxno=6412">Learn More</a>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSLeon24&custom_title=PSLeon's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="PSLeon's Github Activity Graph" width="100%">
