@@ -14,9 +14,10 @@ My current research interests include adversarial attack, artificial intelligenc
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psleon)](https://solved.ac/psleon/)
 <br>
 ## 📘 Publications
-1. Ko, Yeongmin and Park, Jinsun. "Stable Diffusion-based Deepfake Creation Disruption using Adversarial Attacks." IPIU (2025).
-2. Ko, Yeongmin, Park, Hyeonsu, and Park, Jinsun. "Disrupting Deepfake Generation with KL Divergence-based Adversarial Attacks." Autumn Annual Conference of IEIE (2024): 1178-1182. - 🏅 Paper Award
-3. Ko, Yeong-Min, Aziz Nasridinov, and So-Hyun Park. "Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe." IEEE Access (2024).
+1. **Ko, Yeong-Min**, Aziz Nasridinov, and So-Hyun Park. "Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe." IEEE Access (2024).
+2. **Ko, Yeongmin** and Park, Jinsun. "Stable Diffusion-based Deepfake Creation Disruption using Adversarial Attacks." in Proc. the 37th Workshop on Image Processing and Image Understanding (2025).
+3. **Ko, Yeongmin**, Park, Hyeonsu, and Park, Jinsun. "Disrupting Deepfake Generation with KL Divergence-based Adversarial Attacks." in Proc. the Autumn Annual Conference of IEIE (2024): 1178-1182. - 🏅 Paper Award
+4. Park, Hyeonsu and Park, Jaehyeong and Ko, **Yeongmin and Park**, Jinsun. "Approximation of Omnidirectional Camera Distortion Models for COLMAP Using a Virtual Checkerboard." in Proc. the Summer Annual Conference of IEIE (2025)
 
 ## 💻 Tech Stack
 <div>
