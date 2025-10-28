@@ -18,7 +18,7 @@ My current research interests include adversarial attack, artificial intelligenc
 2. **Ko, Yeongmin** and Park, Jinsun. "Low-Light Data Augmentation-based Object Detection for Nighttime Smart Yard Safety Management." Journal of the Institute of Electronics and Information Engineers (2025).
 3. **Ko, Yeongmin** and Park, Jinsun. "Stable Diffusion-based Deepfake Creation Disruption Using Adversarial Attacks." in Proc. the 37th Workshop on Image Processing and Image Understanding (2025).
 4. **Ko, Yeongmin**, Park, Hyeonsu, and Park, Jinsun. "Disrupting Deepfake Generation with KL Divergence-based Adversarial Attacks." in Proc. the Autumn Annual Conference of IEIE (2024): 1178-1182. - 🏅 Paper Award
-5. Park, Hyeonsu, Park, Jaehyeong, Ko, **Yeongmin and Park**, Jinsun. "Approximation of Omnidirectional Camera Distortion Models for COLMAP Using a Virtual Checkerboard." in Proc. the Summer Annual Conference of IEIE (2025).
+5. Park, Hyeonsu, Park, Jaehyeong, **Ko, Yeongmin**, and Park, Jinsun. "Approximation of Omnidirectional Camera Distortion Models for COLMAP Using a Virtual Checkerboard." in Proc. the Summer Annual Conference of IEIE (2025).
 
 ## 💻 Tech Stack
 <div>
