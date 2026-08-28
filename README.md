@@ -18,7 +18,9 @@ Project Page <sub>(TBA)</sub>
 
 <br>
 
-I work on the cases a model gets wrong when its average looks right.
+I build things that have to work for somebody, not just report well: engineering
+drawings a machine can query, faces that resist being turned into deepfakes, and
+lifting form corrected while the lift is happening.
 
 My main research is **turning engineering drawings into graphs**. A piping and
 instrumentation diagram already contains a complete process topology — equipment,
