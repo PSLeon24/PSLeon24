@@ -51,12 +51,12 @@ and Image Understanding (IPIU), and was recognised with a paper award at IEIE 20
 ## Education
 
 <table>
-<tr><td width="128" valign="top"><b>M.S.</b></td>
+<tr><td width="128" valign="top"><b>M.S.</b><br><sub>Feb 2026</sub></td>
 <td><b>Information Convergence Engineering</b>, Artificial Intelligence major<br>
 Pusan National University<br>
 <sub>Visual Intelligence and Perception Laboratory &nbsp;·&nbsp; advised by Prof. Jinsun Park</sub></td></tr>
 
-<tr><td valign="top"><b>B.S.</b></td>
+<tr><td valign="top"><b>B.S.</b><br><sub>Aug 2024</sub></td>
 <td><b>Computer Engineering</b><br>
 Dongguk University</td></tr>
 </table>
