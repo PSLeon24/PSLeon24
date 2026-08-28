@@ -6,7 +6,7 @@
 
 **AI Engineer, [DeepAuto.ai](https://deepauto.ai)**
 
-Computer Vision &nbsp;·&nbsp; Medical Imaging &nbsp;·&nbsp; Adversarial Robustness
+Computer Vision &nbsp;·&nbsp; Adversarial Attack (Anti-Deepfake &amp; Robustness) &nbsp;·&nbsp; Medical Imaging &nbsp;·&nbsp; Diffusion Models
 
 <a href="mailto:yeongminko@deepauto.ai">Email</a> &nbsp;·&nbsp;
 <a href="https://github.com/PSLeon24">GitHub</a> &nbsp;·&nbsp;
@@ -27,12 +27,15 @@ disagree — the patients for whom a correct reading matters most. The question 
 aggregating correlated observations helps a population and hurts an individual, and
 what a model should do about it.
 
-Before this I worked on **adversarial disruption of generative models**, protecting
-faces from being used as material for deepfake synthesis, and on **detection under
-degraded imaging conditions**. That work appears in IEEE Access, in the Institute of Electronics and
-Information Engineers (IEIE) journal and conferences, and at the Workshop on Image
-Processing and Image Understanding (IPIU), and was recognised with a paper award
-at IEIE 2024.
+Alongside it I work on **adversarial attacks against diffusion models**, protecting faces
+from being used as material for deepfake synthesis by making them poor inputs to
+generation rather than by detecting the output after the fact. AEGIS, currently under
+review at *Pattern Recognition*, is the latest of that line.
+
+Earlier work covers **detection under degraded imaging conditions** and real-time pose
+estimation. It appears in IEEE Access, in the journal and conferences of the Institute
+of Electronics and Information Engineers (IEIE), and at the Workshop on Image Processing
+and Image Understanding (IPIU), and was recognised with a paper award at IEIE 2024.
 
 Previously a graduate researcher at the **Visual Intelligence and Perception
 Laboratory**, Pusan National University, advised by Prof. Jinsun Park.
