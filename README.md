@@ -163,9 +163,10 @@ from papers, reimplemented in PyTorch.
 
 <br>
 
-## Mathematical Foundations
+## AI Foundations
 
-Notes and worked exercises from studying the mathematics the models rest on.
+Notes and worked exercises kept while studying the mathematics and the methods the
+models rest on.
 
 | Repository | Contents |
 | --- | --- |
