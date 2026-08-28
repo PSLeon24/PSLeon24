@@ -22,7 +22,7 @@ I build things that have to work for somebody, not just report well: engineering
 drawings a machine can query, faces that resist being turned into deepfakes, and
 lifting form corrected while the lift is happening.
 
-My main research is **turning engineering drawings into graphs**. A piping and
+The core of my research is **turning engineering drawings into graphs**. A piping and
 instrumentation diagram already contains a complete process topology — equipment,
 instruments, and the lines that connect them — but it holds that topology as
 draughtsman's marks rather than as structure, so nothing downstream can query it.
@@ -43,10 +43,18 @@ as material for deepfake synthesis by making them poor inputs to generation rath
 than by detecting the output after the fact. AEGIS, currently under review at
 *Pattern Recognition*, is the latest of that line.
 
-Earlier work covers **detection under degraded imaging conditions** and real-time pose
-estimation. It appears in IEEE Access, in the journal and conferences of the Institute
-of Electronics and Information Engineers (IEIE), and at the Workshop on Image Processing
-and Image Understanding (IPIU), and was recognised with a paper award at IEIE 2024.
+Earlier work covers two separate domains.
+
+**Industrial safety monitoring at night.** Object detection on smart-yard footage where
+the imaging itself is the obstacle, addressed with low-light data augmentation rather
+than by asking the detector to cope. Published in the journal of the Institute of
+Electronics and Information Engineers (IEIE).
+
+**Exercise posture correction.** Real-time form feedback on the three powerlifting
+lifts from pose estimation, built to run during the lift rather than on a recording
+afterwards. Published in *IEEE Access* and [cited 28 times](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C).
+
+The deepfake-disruption line was also recognised with a paper award at IEIE 2024.
 
 <br>
 
