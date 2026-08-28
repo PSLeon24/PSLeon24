@@ -111,7 +111,8 @@ Dongguk University</td></tr>
 <tr><td width="132" valign="top"><b>2025</b></td>
 <td>Stable Diffusion-based Deepfake Creation Disruption Using Adversarial Attacks<br>
 <b>Ko, Y.</b>, Park, J.<br>
-<i>37th Workshop on Image Processing and Image Understanding (IPIU)</i>, 2025.</td></tr>
+<i>37th Workshop on Image Processing and Image Understanding (IPIU)</i>, 2025.
+&nbsp;<a href="https://github.com/PSLeon24/Anti-StableDiffusion">code</a></td></tr>
 
 <tr><td valign="top"><b>2025</b></td>
 <td>Approximation of Omnidirectional Camera Distortion Models for COLMAP Using a Virtual Checkerboard<br>
@@ -151,7 +152,8 @@ detection under the low-light and nighttime conditions of smart-yard environment
 system behind the IEIE journal paper.
 
 **[Anti-StableDiffusion](https://github.com/PSLeon24/Anti-StableDiffusion)** — adversarial
-method that disrupts deepfake generation through the Stable Diffusion img2img pipeline.
+method that disrupts deepfake generation through the Stable Diffusion img2img pipeline;
+the system behind the IPIU 2025 paper.
 
 **[AI Exercise Pose Feedback](https://github.com/PSLeon24/AI_Exercise_Pose_Feedback)** — real-time
 powerlifting form correction with YOLOv5 and MediaPipe; the system behind the *IEEE Access* paper.
