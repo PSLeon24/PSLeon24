@@ -46,8 +46,20 @@ estimation. It appears in IEEE Access, in the journal and conferences of the Ins
 of Electronics and Information Engineers (IEIE), and at the Workshop on Image Processing
 and Image Understanding (IPIU), and was recognised with a paper award at IEIE 2024.
 
-Previously a graduate researcher at the **Visual Intelligence and Perception
-Laboratory**, Pusan National University, advised by Prof. Jinsun Park.
+<br>
+
+## Education
+
+<table>
+<tr><td width="128" valign="top"><b>M.S.</b></td>
+<td><b>Information Convergence Engineering</b>, Artificial Intelligence major<br>
+Pusan National University<br>
+<sub>Visual Intelligence and Perception Laboratory &nbsp;·&nbsp; advised by Prof. Jinsun Park</sub></td></tr>
+
+<tr><td valign="top"><b>B.S.</b></td>
+<td><b>Computer Engineering</b><br>
+Dongguk University</td></tr>
+</table>
 
 <br>
 
