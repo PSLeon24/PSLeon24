@@ -6,7 +6,7 @@
 
 **AI Engineer, [DeepAuto.ai](https://deepauto.ai)**
 
-Computer Vision &nbsp;·&nbsp; Adversarial Attack (Anti-Deepfake &amp; Robustness) &nbsp;·&nbsp; Medical Imaging &nbsp;·&nbsp; Diffusion Models
+Computer Vision &nbsp;·&nbsp; Engineering Diagram Digitalization &nbsp;·&nbsp; Adversarial Attack (Anti-Deepfake &amp; Robustness) &nbsp;·&nbsp; Medical Imaging &nbsp;·&nbsp; Diffusion Models
 
 <a href="mailto:yeongminko@deepauto.ai">Email</a> &nbsp;·&nbsp;
 <a href="https://github.com/PSLeon24">GitHub</a> &nbsp;·&nbsp;
@@ -18,43 +18,45 @@ Project Page <sub>(TBA)</sub>
 
 <br>
 
-I build things that have to work for somebody, not just report well: engineering
-drawings a machine can query, faces that resist being turned into deepfakes, and
-lifting form corrected while the lift is happening.
+I work on vision problems whose output has to be usable by someone: engineering
+drawings a machine can query, faces that resist deepfake synthesis, and lifting
+form corrected while the lift is happening.
 
-The core of my research is **turning engineering drawings into graphs**. A piping and
-instrumentation diagram already contains a complete process topology — equipment,
-instruments, and the lines that connect them — but it holds that topology as
-draughtsman's marks rather than as structure, so nothing downstream can query it.
-I work on recovering it: reading a drawing as nodes and directed edges, where a pipe
-is the edge and its identity has to survive every reducer, tag break and line
-crossing along its route. The end state is a diagram that can be searched, checked
-and simulated instead of read by eye.
+<br>
 
-Second, **paired-organ medical imaging**. Bilateral models raise population accuracy by
-borrowing evidence between an organ and its fellow, and that same borrowing
-systematically damages the asymmetric patients whose two organs disagree — the
-patients for whom a correct reading matters most. The question is when aggregating
-correlated observations helps a population and hurts an individual, and what a model
-should do about it.
+## Research
 
-Third, **adversarial attacks against diffusion models**, protecting faces from being used
-as material for deepfake synthesis by making them poor inputs to generation rather
-than by detecting the output after the fact. AEGIS, currently under review at
-*Pattern Recognition*, is the latest of that line.
+**Engineering diagram digitalization.**
+A piping and instrumentation diagram encodes a complete process topology — equipment,
+instruments, and the lines that connect them — but stores it as drawing primitives
+rather than as structure, so no downstream system can query it. I work on recovering
+that structure: parsing a drawing into nodes and directed edges, where each pipe run
+is an edge whose identity must persist across the reducers, tag breaks, and line
+crossings that interrupt it. The goal is a diagram that can be searched, validated,
+and simulated rather than read by hand.
 
-Earlier work covers two separate domains.
+**Paired-organ medical imaging.**
+Bilateral models improve population accuracy by sharing evidence between an organ and
+its fellow. The same sharing degrades the asymmetric patients whose two organs
+disagree — precisely those for whom an accurate reading matters most. The question is
+when aggregating correlated observations helps a population while harming an
+individual, and what a model should do about it.
 
-**Industrial safety monitoring at night.** Object detection on smart-yard footage where
-the imaging itself is the obstacle, addressed with low-light data augmentation rather
-than by asking the detector to cope. Published in the journal of the Institute of
-Electronics and Information Engineers (IEIE).
+**Adversarial attacks on diffusion models.**
+Protecting faces from deepfake synthesis by making them unusable as generation inputs,
+rather than by detecting synthetic output after the fact. AEGIS, under review at
+*Pattern Recognition*, is the most recent work in this line; an earlier paper in the
+same direction received a paper award at IEIE 2024.
 
-**Exercise posture correction.** Real-time form feedback on the three powerlifting
-lifts from pose estimation, built to run during the lift rather than on a recording
-afterwards. Published in *IEEE Access* and [cited 28 times](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C).
+**Low-light object detection.**
+Detection on industrial yard footage where the imaging condition itself is the
+bottleneck, addressed through low-light data augmentation rather than by changing the
+detector.
 
-The deepfake-disruption line was also recognised with a paper award at IEIE 2024.
+**Real-time pose estimation.**
+Form correction for the three powerlifting movements, designed to give feedback during
+the lift rather than from a recording afterwards. Published in *IEEE Access* and
+[cited 28 times](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C).
 
 <br>
 
@@ -75,98 +77,96 @@ Dongguk University</td></tr>
 
 ## Publications
 
-<sub>**IJ** International Journal &nbsp;·&nbsp; **DJ** Domestic Journal (KCI) &nbsp;·&nbsp; **DC** Domestic Conference</sub>
-
 #### International Journal
 
 <table>
-<tr><td width="128" valign="top"><b>IJ</b> &nbsp;Under review</td>
-<td><b>AEGIS</b> &nbsp;|&nbsp; <b>Ko, Y.</b> et al.<br>
-<i>Pattern Recognition</i> (Elsevier) — under review.
-&nbsp;<sub>project page: TBA</sub></td></tr>
+<tr><td width="132" valign="top"><b>Under review</b></td>
+<td><b>AEGIS</b><br>
+<b>Ko, Y.</b> et al.<br>
+<i>Pattern Recognition</i> (Elsevier). &nbsp;<sub>project page: TBA</sub></td></tr>
 
-<tr><td valign="top"><b>IJ</b> &nbsp;2024</td>
-<td><b>Ko, Y.-M.</b>, Nasridinov, A., Park, S.-H.<br>
-Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe.<br>
-<i>IEEE Access</i>, 2024. &nbsp;<b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C">Cited by 28</a></b>
+<tr><td valign="top"><b>2024</b></td>
+<td>Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe<br>
+<b>Ko, Y.-M.</b>, Nasridinov, A., Park, S.-H.<br>
+<i>IEEE Access</i>, 2024.
+&nbsp;<b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C">Cited by 28</a></b>
 &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10798440">paper</a>
 &nbsp;<a href="https://github.com/PSLeon24/AI_Exercise_Pose_Feedback">code</a></td></tr>
 </table>
 
-#### Domestic Journal (KCI)
+#### Domestic Journal
 
 <table>
-<tr><td width="128" valign="top"><b>DJ</b> &nbsp;2025</td>
-<td><b>Ko, Y.</b>, Park, J.<br>
-Low-Light Data Augmentation-based Object Detection for Nighttime Smart Yard Safety Management.<br>
-<i>Journal of the Institute of Electronics and Information Engineers</i>, 2025.</td></tr>
+<tr><td width="132" valign="top"><b>2025</b></td>
+<td>Low-Light Data Augmentation-based Object Detection for Nighttime Smart Yard Safety Management<br>
+<b>Ko, Y.</b>, Park, J.<br>
+<i>Journal of the Institute of Electronics and Information Engineers (IEIE)</i>, 2025.<br>
+<b>KCI Excellence-Accredited</b> <sub>— the highest tier of the Korea Citation Index</sub></td></tr>
 </table>
 
 #### Domestic Conference
 
 <table>
-<tr><td width="128" valign="top"><b>DC</b> &nbsp;2025</td>
-<td><b>Ko, Y.</b>, Park, J.<br>
-Stable Diffusion-based Deepfake Creation Disruption Using Adversarial Attacks.<br>
+<tr><td width="132" valign="top"><b>2025</b></td>
+<td>Stable Diffusion-based Deepfake Creation Disruption Using Adversarial Attacks<br>
+<b>Ko, Y.</b>, Park, J.<br>
 <i>37th Workshop on Image Processing and Image Understanding (IPIU)</i>, 2025.</td></tr>
 
-<tr><td valign="top"><b>DC</b> &nbsp;2025</td>
-<td>Park, H., Park, J., <b>Ko, Y.</b>, Park, J.<br>
-Approximation of Omnidirectional Camera Distortion Models for COLMAP Using a Virtual Checkerboard.<br>
+<tr><td valign="top"><b>2025</b></td>
+<td>Approximation of Omnidirectional Camera Distortion Models for COLMAP Using a Virtual Checkerboard<br>
+Park, H., Park, J., <b>Ko, Y.</b>, Park, J.<br>
 <i>Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE)</i>, 2025.</td></tr>
 
-<tr><td valign="top"><b>DC</b> &nbsp;2024 &nbsp;🏅</td>
-<td><b>Ko, Y.</b>, Park, H., Park, J.<br>
-Disrupting Deepfake Generation with KL Divergence-based Adversarial Attacks.<br>
-<i>Autumn Annual Conference of the Institute of Electronics and Information Engineers (IEIE)</i>, 2024, pp. 1178–1182. &nbsp;<b>Paper Award</b></td></tr>
+<tr><td valign="top"><b>2024</b> &nbsp;🏅</td>
+<td>Disrupting Deepfake Generation with KL Divergence-based Adversarial Attacks<br>
+<b>Ko, Y.</b>, Park, H., Park, J.<br>
+<i>Autumn Annual Conference of the Institute of Electronics and Information Engineers (IEIE)</i>, 2024, pp. 1178–1182.
+&nbsp;<b>Paper Award</b></td></tr>
 </table>
 
 <br>
 
-## Ongoing Research
+## Work in Progress
 
-Work in progress. Nothing here is peer-reviewed yet, and no results are quoted.
+<sub>Not yet peer reviewed. No results are reported here.</sub>
 
-**Graph digitalization of P&ID drawings.** Extracting the process graph a piping and
-instrumentation diagram encodes — what connects to what, and in which direction —
-by treating each pipe run as an edge whose identity must hold across the reducers,
-tag breaks and crossings that interrupt it, rather than treating the drawing as a
-symbol-detection problem.
+**Graph digitalization of P&ID drawings.** Recovering the process graph a piping and
+instrumentation diagram encodes — what connects to what, and in which direction — by
+treating each pipe run as an edge whose identity must hold across the reducers, tag
+breaks, and crossings that interrupt it, rather than as a symbol-detection problem.
 
 **Binocular asymmetry in paired-organ grading.** Measuring what bilateral fusion costs
-the patients whose two organs disagree, deriving where the cost comes from, and testing
-whether a correction recovers it without giving up the population gain. Run across
-retinal grading, knee osteoarthritis and mammography under one protocol, so the
-finding is not a property of one dataset.
+the patients whose two organs disagree, identifying the mechanism behind that cost, and
+testing whether a correction recovers it without giving up the population-level gain.
+Evaluated on retinal grading, knee osteoarthritis, and mammography under a single
+protocol, so the finding is not a property of one dataset.
 
 <br>
 
-## Selected Projects
+## Code
 
-**AEGIS** — current first-author work, under review at *Pattern Recognition*. Project page TBA.
-
-**[Anti-StableDiffusion](https://github.com/PSLeon24/Anti-StableDiffusion)** — an adversarial method
-that disrupts deepfake generation through the Stable Diffusion img2img pipeline.
+**[Anti-StableDiffusion](https://github.com/PSLeon24/Anti-StableDiffusion)** — adversarial
+method that disrupts deepfake generation through the Stable Diffusion img2img pipeline.
 
 **[AI Exercise Pose Feedback](https://github.com/PSLeon24/AI_Exercise_Pose_Feedback)** — real-time
-powerlifting form correction with YOLOv5 and MediaPipe; the system behind the IEEE Access paper,
-which has been [cited 28 times](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C).
+powerlifting form correction with YOLOv5 and MediaPipe; the system behind the *IEEE Access* paper.
+
+**[Paper Implementations](https://github.com/PSLeon24/Paper-Implementation-with-PyTorch)** — models
+from papers, reimplemented in PyTorch.
 
 <br>
 
-## Mathematical & AI Foundations
+## Mathematical Foundations
 
-Worked notebooks kept while studying the mathematics the models rest on. Written to be
-re-read rather than to be finished.
+Notes and worked exercises from studying the mathematics the models rest on.
 
 | Repository | Contents |
 | --- | --- |
-| **[Linear Algebra](https://github.com/PSLeon24/Linear_Algebra)** | Written and practised while studying linear algebra |
-| **[Mathematical Statistics](https://github.com/PSLeon24/Mathematical_Statistics)** | A brief course in mathematical statistics |
-| **[Calculus](https://github.com/PSLeon24/Calculus)** | A brief course in calculus for data science |
+| **[Linear Algebra](https://github.com/PSLeon24/Linear_Algebra)** | Notes and exercises from a linear algebra course |
+| **[Mathematical Statistics](https://github.com/PSLeon24/Mathematical_Statistics)** | A short course in mathematical statistics |
+| **[Calculus](https://github.com/PSLeon24/Calculus)** | A short course in calculus for data science |
 | **[Artificial Intelligence](https://github.com/PSLeon24/Artificial_Intelligence)** | Coursework and practice across AI methods |
-| **[PyTorch Tutorial](https://github.com/PSLeon24/PyTorch_Tutorial)** | Working through PyTorch from the ground up |
-| **[Paper Implementations](https://github.com/PSLeon24/Paper-Implementation-with-PyTorch)** | Models from papers, reimplemented in PyTorch |
+| **[PyTorch](https://github.com/PSLeon24/PyTorch_Tutorial)** | Working through PyTorch from the fundamentals |
 
 <br>
 
