@@ -12,7 +12,7 @@ Computer Vision &nbsp;·&nbsp; Adversarial Attack (Anti-Deepfake &amp; Robustnes
 <a href="https://github.com/PSLeon24">GitHub</a> &nbsp;·&nbsp;
 <a href="https://scholar.google.com/citations?hl=en&user=c-j-mAsAAAAJ">Google Scholar</a> &nbsp;·&nbsp;
 <a href="https://psleon.tistory.com">Blog</a> &nbsp;·&nbsp;
-<a href="https://psleon24.github.io/">Project Page</a>
+Project Page <sub>(TBA)</sub>
 
 </div>
 
@@ -52,7 +52,7 @@ Laboratory**, Pusan National University, advised by Prof. Jinsun Park.
 <tr><td width="128" valign="top"><b>IJ</b> &nbsp;Under review</td>
 <td><b>AEGIS</b> &nbsp;|&nbsp; <b>Ko, Y.</b> et al.<br>
 <i>Pattern Recognition</i> (Elsevier) — under review.
-&nbsp;<a href="https://psleon24.github.io/">project page</a></td></tr>
+&nbsp;<sub>project page: TBA</sub></td></tr>
 
 <tr><td valign="top"><b>IJ</b> &nbsp;2024</td>
 <td><b>Ko, Y.-M.</b>, Nasridinov, A., Park, S.-H.<br>
@@ -92,9 +92,26 @@ Disrupting Deepfake Generation with KL Divergence-based Adversarial Attacks.<br>
 
 <br>
 
+## Ongoing Research
+
+Work in progress. Nothing here is peer-reviewed yet, and no results are quoted.
+
+**Binocular asymmetry in paired-organ grading.** Bilateral models raise population
+accuracy by letting each organ borrow evidence from its fellow. I am measuring what
+that borrowing costs the patients whose two organs disagree, deriving where the cost
+comes from, and testing whether a correction recovers it without giving up the
+population gain. Run across retinal grading, knee osteoarthritis and mammography
+under one protocol, so the finding is not a property of one dataset.
+
+**Connectivity extraction from engineering diagrams.** Recovering the graph a piping
+and instrumentation diagram encodes — what connects to what, and in which direction —
+rather than treating the drawing as a detection problem.
+
+<br>
+
 ## Selected Projects
 
-**[AEGIS](https://psleon24.github.io/)** — current first-author work, under review at *Pattern Recognition*.
+**AEGIS** — current first-author work, under review at *Pattern Recognition*. Project page TBA.
 
 **[Anti-StableDiffusion](https://github.com/PSLeon24/Anti-StableDiffusion)** — an adversarial method
 that disrupts deepfake generation through the Stable Diffusion img2img pipeline.
