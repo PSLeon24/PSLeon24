@@ -1,95 +1,133 @@
-## Yeongmin Ko (고영민)
+<div align="center">
 
-![pixel-night-banner](https://github.com/PSLeon24/PSLeon24/assets/59058869/16f7a08f-ec50-4058-aa1d-478d4514ede6)
+![](https://github.com/PSLeon24/PSLeon24/assets/59058869/16f7a08f-ec50-4058-aa1d-478d4514ede6)
 
-**AI Engineer at [DeepAuto.ai](https://deepauto.ai)** · Computer Vision, Medical AI
+# Yeongmin Ko &nbsp;·&nbsp; 고영민
 
-I work on visual recognition where the failure cases matter more than the average.
-My current research is on **paired-organ medical imaging** — why bilateral models
-that improve population accuracy systematically damage the asymmetric patients who
-most need a correct reading — with earlier work on adversarial disruption of
-generative deepfakes, published across IEEE Access, IEIE and IPIU.
+**AI Engineer, [DeepAuto.ai](https://deepauto.ai)**
 
-Previously at the **Visual Intelligence and Perception Laboratory**, Pusan National
-University, advised by Prof. Jinsun Park.
+Computer Vision &nbsp;·&nbsp; Medical Imaging &nbsp;·&nbsp; Adversarial Robustness
 
-<div>
-  <a href="https://github.com/PSLeon24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://psleon.tistory.com"><img src="https://img.shields.io/badge/Blog-FF5A4A?style=for-the-badge&logo=rss&logoColor=white"/></a>
-  <a href="mailto:yeongminko@deepauto.ai"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:yeongminko@deepauto.ai">Email</a> &nbsp;·&nbsp;
+<a href="https://github.com/PSLeon24">GitHub</a> &nbsp;·&nbsp;
+<a href="https://psleon.tistory.com">Blog</a> &nbsp;·&nbsp;
+<a href="https://psleon24.github.io/">Project Page</a>
+
 </div>
 
----
+<br>
 
-## Research Interests
+I work on the cases a model gets wrong when its average looks right.
 
-| Area | What I am asking |
-| --- | --- |
-| **Medical AI** | When does aggregating correlated observations help a population and hurt an individual? |
-| **Robustness & adversarial ML** | How do we disrupt generative misuse without degrading benign inputs? |
-| **Visual perception** | What do detectors actually rely on when the imaging conditions degrade? |
+My current research is on **paired-organ medical imaging**: bilateral models raise
+population accuracy by borrowing evidence between an organ and its fellow, and that
+same borrowing systematically damages the asymmetric patients whose two organs
+disagree — the patients for whom a correct reading matters most. The question is when
+aggregating correlated observations helps a population and hurts an individual, and
+what a model should do about it.
 
----
+Before this I worked on **adversarial disruption of generative models**, protecting
+faces from being used as material for deepfake synthesis, and on **detection under
+degraded imaging conditions**. That work appears in IEEE Access, IEIE and IPIU, and
+was recognised with a paper award at IEIE 2024.
+
+Previously a graduate researcher at the **Visual Intelligence and Perception
+Laboratory**, Pusan National University, advised by Prof. Jinsun Park.
+
+<br>
 
 ## Publications
 
-**2025**
+#### Under Review
 
-- **Ko, Y.**, Park, J. "Low-Light Data Augmentation-based Object Detection for Nighttime Smart Yard Safety Management." *Journal of the Institute of Electronics and Information Engineers (JIEIE)*, 2025.
-- **Ko, Y.**, Park, J. "Stable Diffusion-based Deepfake Creation Disruption Using Adversarial Attacks." *37th Workshop on Image Processing and Image Understanding (IPIU)*, 2025.
-- Park, H., Park, J., **Ko, Y.**, Park, J. "Approximation of Omnidirectional Camera Distortion Models for COLMAP Using a Virtual Checkerboard." *Summer Annual Conference of IEIE*, 2025.
+<table>
+<tr><td width="112" valign="top"><b>AEGIS</b></td>
+<td><b>Ko, Y.</b> et al.<br>
+<i>Pattern Recognition</i> — under review.
+&nbsp;<a href="https://psleon24.github.io/">project page</a></td></tr>
+</table>
 
-**2024**
+#### 2025
 
-- **Ko, Y.-M.**, Nasridinov, A., Park, S.-H. "Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe." *IEEE Access*, 2024. [[paper]](https://ieeexplore.ieee.org/abstract/document/10798440)
-- **Ko, Y.**, Park, H., Park, J. "Disrupting Deepfake Generation with KL Divergence-based Adversarial Attacks." *Autumn Annual Conference of IEIE*, 2024, pp. 1178–1182. 🏅 **Paper Award**
+<table>
+<tr><td width="112" valign="top"><b>JIEIE</b></td>
+<td><b>Ko, Y.</b>, Park, J.<br>
+Low-Light Data Augmentation-based Object Detection for Nighttime Smart Yard Safety Management.<br>
+<i>Journal of the Institute of Electronics and Information Engineers</i>, 2025.</td></tr>
 
----
+<tr><td valign="top"><b>IPIU</b></td>
+<td><b>Ko, Y.</b>, Park, J.<br>
+Stable Diffusion-based Deepfake Creation Disruption Using Adversarial Attacks.<br>
+<i>37th Workshop on Image Processing and Image Understanding</i>, 2025.</td></tr>
 
-## Selected Work
+<tr><td valign="top"><b>IEIE</b></td>
+<td>Park, H., Park, J., <b>Ko, Y.</b>, Park, J.<br>
+Approximation of Omnidirectional Camera Distortion Models for COLMAP Using a Virtual Checkerboard.<br>
+<i>Summer Annual Conference of IEIE</i>, 2025.</td></tr>
+</table>
 
-| Project | What it does | Links |
-| --- | --- | --- |
-| **FORGE** | Facial Optimization for Robust Generative Enhancement Attack | [page](https://psleon24.github.io/) |
-| **Anti-StableDiffusion** | Adversarial method that disrupts deepfake generation through the Stable Diffusion img2img pipeline | [repo](https://github.com/PSLeon24/Anti-StableDiffusion) |
-| **AI Exercise Pose Feedback** | Real-time powerlifting form correction with YOLOv5 + MediaPipe — the IEEE Access work | [repo](https://github.com/PSLeon24/AI_Exercise_Pose_Feedback) |
-| **Paper Implementations** | Reference implementations of vision papers in PyTorch | [repo](https://github.com/PSLeon24/Paper-Implementation-with-PyTorch) |
+#### 2024
 
----
+<table>
+<tr><td width="112" valign="top"><b>IEEE Access</b></td>
+<td><b>Ko, Y.-M.</b>, Nasridinov, A., Park, S.-H.<br>
+Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe.<br>
+<i>IEEE Access</i>, 2024.
+&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10798440">paper</a>
+&nbsp;<a href="https://github.com/PSLeon24/AI_Exercise_Pose_Feedback">code</a></td></tr>
 
-## Stack
+<tr><td valign="top"><b>IEIE</b> 🏅</td>
+<td><b>Ko, Y.</b>, Park, H., Park, J.<br>
+Disrupting Deepfake Generation with KL Divergence-based Adversarial Attacks.<br>
+<i>Autumn Annual Conference of IEIE</i>, 2024, pp. 1178–1182. &nbsp;<b>Paper Award</b></td></tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+<br>
+
+## Selected Projects
+
+**[AEGIS](https://psleon24.github.io/)** — current first-author work, under review at *Pattern Recognition*.
+
+**[Anti-StableDiffusion](https://github.com/PSLeon24/Anti-StableDiffusion)** — an adversarial method
+that disrupts deepfake generation through the Stable Diffusion img2img pipeline.
+
+**[AI Exercise Pose Feedback](https://github.com/PSLeon24/AI_Exercise_Pose_Feedback)** — real-time
+powerlifting form correction with YOLOv5 and MediaPipe; the system behind the IEEE Access paper.
+
+**[Paper Implementations](https://github.com/PSLeon24/Paper-Implementation-with-PyTorch)** — reference
+implementations of vision papers in PyTorch.
+
+<br>
+
+## Foundations
+
+Long-form notes kept while working through the mathematics behind the models.
+
+[Linear Algebra](https://github.com/PSLeon24/Linear_Algebra) &nbsp;·&nbsp;
+[Mathematical Statistics](https://github.com/PSLeon24/Mathematical_Statistics) &nbsp;·&nbsp;
+[Calculus](https://github.com/PSLeon24/Calculus) &nbsp;·&nbsp;
+[Artificial Intelligence](https://github.com/PSLeon24/Artificial_Intelligence) &nbsp;·&nbsp;
+[PyTorch](https://github.com/PSLeon24/PyTorch_Tutorial)
+
+<br>
+
+## Tools
+
+`Python` &nbsp;`PyTorch` &nbsp;`NumPy` &nbsp;`pandas` &nbsp;`scikit-learn` &nbsp;`CUDA` &nbsp;`Linux` &nbsp;`Docker` &nbsp;`AWS`
 
 <details>
-<summary>Also: web and mobile, from earlier work</summary>
+<summary>Web and mobile, from earlier work</summary>
 
-Java · Spring Boot · Django · Node.js/Express · React · JavaScript · MySQL · SQL Server · Firebase · Android
+<br>
+
+`Java` `Spring Boot` `Django` `Node.js` `Express` `React` `JavaScript` `MySQL` `SQL Server` `Firebase` `Android`
 
 </details>
 
----
-
-## Notes and Study Repositories
-
-Long-form notes I keep while working through the mathematics behind the models.
-
-[Linear Algebra](https://github.com/PSLeon24/Linear_Algebra) ·
-[Mathematical Statistics](https://github.com/PSLeon24/Mathematical_Statistics) ·
-[Calculus](https://github.com/PSLeon24/Calculus) ·
-[Artificial Intelligence](https://github.com/PSLeon24/Artificial_Intelligence) ·
-[PyTorch](https://github.com/PSLeon24/PyTorch_Tutorial)
-
 <details>
 <summary>Earlier projects and coursework</summary>
+
+<br>
 
 | Project | Description | Date |
 | --- | --- | --- |
@@ -105,15 +143,17 @@ Long-form notes I keep while working through the mathematics behind the models.
 </details>
 
 <details>
-<summary>Security disclosures, reported in the press</summary>
+<summary>Security disclosures reported in the press</summary>
+
+<br>
 
 - XSS vulnerabilities in Naver Blog and a middle-school bulletin board — [DailySecu](https://www.dailysecu.com/news/articleView.html?idxno=5998)
 - Hyperlink-handling issues in KakaoTalk and KakaoStory — [DailySecu](https://www.dailysecu.com/news/articleView.html?idxno=6412)
 
 </details>
 
----
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSLeon24&custom_title=Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&title_color=58a6ff&area=true&hide_border=true" alt="Contribution activity" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSLeon24&custom_title=&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area_color=1f6feb&title_color=8b949e&area=true&hide_border=true&radius=4" alt="Contribution activity" width="100%">
 </div>
