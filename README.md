@@ -20,17 +20,26 @@ Project Page <sub>(TBA)</sub>
 
 I work on the cases a model gets wrong when its average looks right.
 
-My current research is on **paired-organ medical imaging**: bilateral models raise
-population accuracy by borrowing evidence between an organ and its fellow, and that
-same borrowing systematically damages the asymmetric patients whose two organs
-disagree — the patients for whom a correct reading matters most. The question is when
-aggregating correlated observations helps a population and hurts an individual, and
-what a model should do about it.
+My main research is **turning engineering drawings into graphs**. A piping and
+instrumentation diagram already contains a complete process topology — equipment,
+instruments, and the lines that connect them — but it holds that topology as
+draughtsman's marks rather than as structure, so nothing downstream can query it.
+I work on recovering it: reading a drawing as nodes and directed edges, where a pipe
+is the edge and its identity has to survive every reducer, tag break and line
+crossing along its route. The end state is a diagram that can be searched, checked
+and simulated instead of read by eye.
 
-Alongside it I work on **adversarial attacks against diffusion models**, protecting faces
-from being used as material for deepfake synthesis by making them poor inputs to
-generation rather than by detecting the output after the fact. AEGIS, currently under
-review at *Pattern Recognition*, is the latest of that line.
+Second, **paired-organ medical imaging**. Bilateral models raise population accuracy by
+borrowing evidence between an organ and its fellow, and that same borrowing
+systematically damages the asymmetric patients whose two organs disagree — the
+patients for whom a correct reading matters most. The question is when aggregating
+correlated observations helps a population and hurts an individual, and what a model
+should do about it.
+
+Third, **adversarial attacks against diffusion models**, protecting faces from being used
+as material for deepfake synthesis by making them poor inputs to generation rather
+than by detecting the output after the fact. AEGIS, currently under review at
+*Pattern Recognition*, is the latest of that line.
 
 Earlier work covers **detection under degraded imaging conditions** and real-time pose
 estimation. It appears in IEEE Access, in the journal and conferences of the Institute
@@ -96,16 +105,17 @@ Disrupting Deepfake Generation with KL Divergence-based Adversarial Attacks.<br>
 
 Work in progress. Nothing here is peer-reviewed yet, and no results are quoted.
 
-**Binocular asymmetry in paired-organ grading.** Bilateral models raise population
-accuracy by letting each organ borrow evidence from its fellow. I am measuring what
-that borrowing costs the patients whose two organs disagree, deriving where the cost
-comes from, and testing whether a correction recovers it without giving up the
-population gain. Run across retinal grading, knee osteoarthritis and mammography
-under one protocol, so the finding is not a property of one dataset.
+**Graph digitalization of P&ID drawings.** Extracting the process graph a piping and
+instrumentation diagram encodes — what connects to what, and in which direction —
+by treating each pipe run as an edge whose identity must hold across the reducers,
+tag breaks and crossings that interrupt it, rather than treating the drawing as a
+symbol-detection problem.
 
-**Connectivity extraction from engineering diagrams.** Recovering the graph a piping
-and instrumentation diagram encodes — what connects to what, and in which direction —
-rather than treating the drawing as a detection problem.
+**Binocular asymmetry in paired-organ grading.** Measuring what bilateral fusion costs
+the patients whose two organs disagree, deriving where the cost comes from, and testing
+whether a correction recovers it without giving up the population gain. Run across
+retinal grading, knee osteoarthritis and mammography under one protocol, so the
+finding is not a property of one dataset.
 
 <br>
 
@@ -127,14 +137,14 @@ which has been [cited 28 times](https://scholar.google.com/citations?view_op=vie
 Worked notebooks kept while studying the mathematics the models rest on. Written to be
 re-read rather than to be finished.
 
-| Repository | Contents | |
-| --- | --- | :--: |
-| **[Linear Algebra](https://github.com/PSLeon24/Linear_Algebra)** | Written and practised while studying linear algebra | Jupyter |
-| **[Mathematical Statistics](https://github.com/PSLeon24/Mathematical_Statistics)** | A brief course in mathematical statistics | Jupyter |
-| **[Calculus](https://github.com/PSLeon24/Calculus)** | A brief course in calculus for data science | Jupyter |
-| **[Artificial Intelligence](https://github.com/PSLeon24/Artificial_Intelligence)** | Coursework and practice across AI methods | Jupyter |
-| **[PyTorch Tutorial](https://github.com/PSLeon24/PyTorch_Tutorial)** | Working through PyTorch from the ground up | Jupyter |
-| **[Paper Implementations](https://github.com/PSLeon24/Paper-Implementation-with-PyTorch)** | Models from papers, reimplemented in PyTorch | Jupyter |
+| Repository | Contents |
+| --- | --- |
+| **[Linear Algebra](https://github.com/PSLeon24/Linear_Algebra)** | Written and practised while studying linear algebra |
+| **[Mathematical Statistics](https://github.com/PSLeon24/Mathematical_Statistics)** | A brief course in mathematical statistics |
+| **[Calculus](https://github.com/PSLeon24/Calculus)** | A brief course in calculus for data science |
+| **[Artificial Intelligence](https://github.com/PSLeon24/Artificial_Intelligence)** | Coursework and practice across AI methods |
+| **[PyTorch Tutorial](https://github.com/PSLeon24/PyTorch_Tutorial)** | Working through PyTorch from the ground up |
+| **[Paper Implementations](https://github.com/PSLeon24/Paper-Implementation-with-PyTorch)** | Models from papers, reimplemented in PyTorch |
 
 <br>
 
