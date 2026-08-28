@@ -100,7 +100,8 @@ Dongguk University</td></tr>
 <tr><td width="132" valign="top"><b>2025</b></td>
 <td>Low-Light Data Augmentation-based Object Detection for Nighttime Smart Yard Safety Management<br>
 <b>Ko, Y.</b>, Park, J.<br>
-<i>Journal of the Institute of Electronics and Information Engineers (IEIE)</i>, 2025.<br>
+<i>Journal of the Institute of Electronics and Information Engineers (IEIE)</i>, 2025.
+&nbsp;<a href="https://github.com/PSLeon24/Data-Augmentation-for-Robust-Object-Detection-in-Low-Light-Conditions">code</a><br>
 <b>KCI Excellence-Accredited</b> <sub>— the highest tier of the Korea Citation Index</sub></td></tr>
 </table>
 
@@ -145,6 +146,10 @@ protocol, so the finding is not a property of one dataset.
 
 ## Code
 
+**[Low-Light Object Detection](https://github.com/PSLeon24/Data-Augmentation-for-Robust-Object-Detection-in-Low-Light-Conditions)** — framework for object
+detection under the low-light and nighttime conditions of smart-yard environments; the
+system behind the IEIE journal paper.
+
 **[Anti-StableDiffusion](https://github.com/PSLeon24/Anti-StableDiffusion)** — adversarial
 method that disrupts deepfake generation through the Stable Diffusion img2img pipeline.
 
@@ -167,6 +172,9 @@ Notes and worked exercises from studying the mathematics the models rest on.
 | **[Calculus](https://github.com/PSLeon24/Calculus)** | A short course in calculus for data science |
 | **[Artificial Intelligence](https://github.com/PSLeon24/Artificial_Intelligence)** | Coursework and practice across AI methods |
 | **[PyTorch](https://github.com/PSLeon24/PyTorch_Tutorial)** | Working through PyTorch from the fundamentals |
+| **[Multiple View Geometry](https://github.com/PSLeon24/MultipleView_Geometry_in_Computer_Vision)** | Multiple view geometry for computer vision |
+| **[Generative Image Models](https://github.com/PSLeon24/Generative_Image_Models)** | Generative image models implemented from scratch |
+| **[Paper Reading (CV)](https://github.com/PSLeon24/Reading-Paper-for-CV)** | Papers read while studying computer vision during the M.S. |
 
 <br>
 
