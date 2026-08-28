@@ -222,8 +222,3 @@ models rest on.
 
 </details>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSLeon24&custom_title=&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area_color=1f6feb&title_color=8b949e&area=true&hide_border=true&radius=4" alt="Contribution activity" width="100%">
-</div>
