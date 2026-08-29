@@ -18,9 +18,7 @@ Project Page <sub>(TBA)</sub>
 
 <br>
 
-I work on vision problems whose output has to be usable by someone: engineering
-drawings a machine can query, faces that resist deepfake synthesis, and lifting
-form corrected while the lift is happening.
+I focus on vision problems where the output must be immediately usable in the real world: engineering drawings like P&IDs that a machine can understand, adversarial perturbations that proactively prevent malicious deepfake synthesis, and real-time lifting posture correction that provides instant feedback.
 
 <br>
 
