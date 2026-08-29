@@ -2,7 +2,7 @@
 
 ![](https://github.com/PSLeon24/PSLeon24/assets/59058869/16f7a08f-ec50-4058-aa1d-478d4514ede6)
 
-# Yeongmin Ko &nbsp;·&nbsp; 고영민
+# Yeongmin Ko
 
 **AI Engineer, [DeepAuto.ai](https://deepauto.ai)**
 
