@@ -6,7 +6,7 @@
 
 **AI Engineer, [DeepAuto.ai](https://deepauto.ai)**
 
-Computer Vision &nbsp;·&nbsp; Engineering Diagram Digitalization &nbsp;·&nbsp; Adversarial Attack (Anti-Deepfake &amp; Robustness) &nbsp;·&nbsp; Medical Imaging &nbsp;·&nbsp; Diffusion Models
+Computer Vision &nbsp;·&nbsp; Engineering Diagram Digitization &nbsp;·&nbsp; Adversarial Attack (Anti-Deepfake &amp; Robustness) &nbsp;·&nbsp; Medical Imaging &nbsp;·&nbsp; Diffusion Models
 
 <a href="mailto:yeongminko@deepauto.ai">Email</a> &nbsp;·&nbsp;
 <a href="https://github.com/PSLeon24">GitHub</a> &nbsp;·&nbsp;
@@ -18,7 +18,7 @@ Project Page <sub>(TBA)</sub>
 
 <br>
 
-I focus on conputer vision tasks where the output must be immediately usable in the real world: engineering drawings like P&IDs that a machine can understand, adversarial perturbations that proactively prevent malicious deepfake synthesis, and real-time lifting posture correction that provides instant feedback.
+I focus on computer vision tasks where the output must be immediately usable in the real world: engineering drawings like P&IDs that a machine can understand, adversarial perturbations that proactively prevent malicious deepfake synthesis, and real-time lifting posture correction that provides instant feedback.
 
 <br>
 
@@ -28,7 +28,7 @@ I focus on conputer vision tasks where the output must be immediately usable in 
 A piping and instrumentation diagram encodes a complete process topology — equipment,
 instruments, and the lines such as piperuns that connect them — but stores it as drawing primitives
 rather than as structure, so no downstream system can query it. I work on recovering
-that structure: parsing a drawing into nodes and directed edges, where each pipe run
+that structure: parsing a drawing into nodes and directed edges, where each piperun
 is an edge whose identity must persist across the reducers, tag breaks, and line
 crossings that interrupt it. The goal is a diagram that can be searched, validated,
 and simulated rather than read by hand.
