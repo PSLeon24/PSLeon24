@@ -62,7 +62,7 @@ the lift rather than from a recording afterwards. Published in *IEEE Access* and
 
 <table>
 <tr><td width="128" valign="top"><b>M.S.</b><br><sub>Feb 2026</sub></td>
-<td><b>Information Convergence Engineering</b>, Artificial Intelligence major<br>
+<td><b>Information Convergence Engineering</b>, (Artificial Intelligence)<br>
 Pusan National University<br>
 <sub>Visual Intelligence and Perception Laboratory &nbsp;·&nbsp; advised by Prof. Jinsun Park</sub></td></tr>
 
@@ -130,9 +130,9 @@ Park, H., Park, J., <b>Ko, Y.</b>, Park, J.<br>
 
 <sub>Not yet peer reviewed. No results are reported here.</sub>
 
-**Graph digitalization of P&ID drawings.** Recovering the process graph a piping and
+**Graph digitization of P&ID drawings.** Recovering the process graph a piping and
 instrumentation diagram encodes — what connects to what, and in which direction — by
-treating each pipe run as an edge whose identity must hold across the reducers, tag
+treating each piperun as an edge whose identity must hold across the reducers, tag
 breaks, and crossings that interrupt it, rather than as a symbol-detection problem.
 
 **Binocular asymmetry in paired-organ grading.** Measuring what bilateral fusion costs
