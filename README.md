@@ -18,15 +18,15 @@ Project Page <sub>(TBA)</sub>
 
 <br>
 
-I focus on vision problems where the output must be immediately usable in the real world: engineering drawings like P&IDs that a machine can understand, adversarial perturbations that proactively prevent malicious deepfake synthesis, and real-time lifting posture correction that provides instant feedback.
+I focus on conputer vision tasks where the output must be immediately usable in the real world: engineering drawings like P&IDs that a machine can understand, adversarial perturbations that proactively prevent malicious deepfake synthesis, and real-time lifting posture correction that provides instant feedback.
 
 <br>
 
 ## Research
 
-**Engineering diagram digitalization.**
+**Engineering diagram digitization.**
 A piping and instrumentation diagram encodes a complete process topology — equipment,
-instruments, and the lines that connect them — but stores it as drawing primitives
+instruments, and the lines such as piperuns that connect them — but stores it as drawing primitives
 rather than as structure, so no downstream system can query it. I work on recovering
 that structure: parsing a drawing into nodes and directed edges, where each pipe run
 is an edge whose identity must persist across the reducers, tag breaks, and line
@@ -47,7 +47,7 @@ rather than by detecting synthetic output after the fact. AEGIS, under review at
 same direction received a paper award at IEIE 2024.
 
 **Low-light object detection.**
-Detection on industrial yard footage where the imaging condition itself is the
+Improved object detection on industrial yard footage where the imaging condition itself is the
 bottleneck, addressed through low-light data augmentation rather than by changing the
 detector.
 
