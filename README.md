@@ -54,7 +54,7 @@ detector.
 **Real-time pose estimation.**
 Form correction for the three powerlifting movements, designed to give feedback during
 the lift rather than from a recording afterwards. Published in *IEEE Access* and
-[cited 28 times](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C).
+[cited 30 times](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C).
 
 <br>
 
