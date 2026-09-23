@@ -87,7 +87,7 @@ Dongguk University</td></tr>
 <td>Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe<br>
 <b>Ko, Y.-M.</b>, Nasridinov, A., Park, S.-H.<br>
 <i>IEEE Access</i>, 2024.
-&nbsp;<b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C">Cited by 28</a></b>
+&nbsp;<b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C">Cited by 30</a></b>
 &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10798440">paper</a>
 &nbsp;<a href="https://github.com/PSLeon24/AI_Exercise_Pose_Feedback">code</a></td></tr>
 </table>
