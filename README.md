@@ -1,60 +1,37 @@
-<div align="center">
-
 ![](https://github.com/PSLeon24/PSLeon24/assets/59058869/16f7a08f-ec50-4058-aa1d-478d4514ede6)
 
 # Yeongmin Ko
 
 **AI Engineer, [DeepAuto.ai](https://deepauto.ai)**
 
-Computer Vision &nbsp;·&nbsp; Engineering Diagram Digitization &nbsp;·&nbsp; Adversarial Attack (Anti-Deepfake &amp; Robustness) &nbsp;·&nbsp; Medical Imaging &nbsp;·&nbsp; Diffusion Models
+Computer Vision &nbsp;·&nbsp; Engineering Diagram Digitization &nbsp;·&nbsp; Adversarial Attack &nbsp;·&nbsp; Medical Imaging &nbsp;·&nbsp; Diffusion Models
 
 <a href="mailto:yeongminko@deepauto.ai">Email</a> &nbsp;·&nbsp;
 <a href="https://github.com/PSLeon24">GitHub</a> &nbsp;·&nbsp;
 <a href="https://scholar.google.com/citations?hl=en&user=c-j-mAsAAAAJ">Google Scholar</a> &nbsp;·&nbsp;
 <a href="https://psleon.tistory.com">Blog</a> &nbsp;·&nbsp;
-Project Page <sub>(TBA)</sub>
-
-</div>
 
 <br>
 
-I focus on computer vision tasks where the output must be immediately usable in the real world: engineering drawings like P&IDs that a machine can understand, adversarial perturbations that proactively prevent malicious deepfake synthesis, and real-time lifting posture correction that provides instant feedback.
-
+I focus on agentic AI and computer vision tasks with directly useful real-world applications: constructing an agentic system that interprets P&ID and transforms them into structured engineering data, designing adversarial perturbations to disrupt deepfake synthesis, and building real-time human posture feedback systems, such as powerlifting form correction.
 <br>
 
 ## Research
 
-**Engineering diagram digitization.**
-A piping and instrumentation diagram encodes a complete process topology — equipment,
-instruments, and the lines such as piperuns that connect them — but stores it as drawing primitives
-rather than as structure, so no downstream system can query it. I work on recovering
-that structure: parsing a drawing into nodes and directed edges, where each piperun
-is an edge whose identity must persist across the reducers, tag breaks, and line
-crossings that interrupt it. The goal is a diagram that can be searched, validated,
-and simulated rather than read by hand.
+**Engineering diagram digitization.** (Ongoing research; findings have not yet undergone peer review.)
+Piping and instrumentation diagrams (P&IDs) encode process topology through equipment, instruments, and their interconnections, but PDF representations often lack explicit machine-readable structure. I work on recovering this structure by reconstructing this information as an enriched knowledge graph, tracing pipe runs through reducers, t-junctions, and off-page connectors while tracking line continuity and identifying line-number changes. The goal is to automatically extract structured Line Listings and Instrument Listings from raw P&ID PDFs, including FROM/TO connectivity, line identifiers, operating pressure, and other engineering attributes.
 
-**Paired-organ medical imaging.**
-Bilateral models improve population accuracy by sharing evidence between an organ and
-its fellow. The same sharing degrades the asymmetric patients whose two organs
-disagree — precisely those for whom an accurate reading matters most. The question is
-when aggregating correlated observations helps a population while harming an
-individual, and what a model should do about it.
+**Bilateral Asymmetry in Medical Imaging.** (Ongoing research; findings have not yet undergone peer review.)
+Recent models that consider information from paired organs can improve overall predictive performance, but this benefit may not extend to patients with substantial left–right asymmetry. I'm investigating when bilateral fusion improves population-level performance while compromising predictions for asymmetric cases and whether asymmetry-aware approaches can mitigate this trade-off without sacrificing overall accuracy.
 
-**Adversarial attacks on diffusion models.**
-Protecting faces from deepfake synthesis by making them unusable as generation inputs,
-rather than by detecting synthetic output after the fact. AEGIS, under review at
-*Pattern Recognition*, is the most recent work in this line; an earlier paper in the
-same direction received a paper award at IEIE 2024.
+**Adversarial Protection against Deepfakes.**
+I investigated an adversarial protection method that disrupts the unauthorized use of facial images in diffusion-based deepfake generation by applying perturbations to the original images before synthesis, rather than detecting manipulated content afterward. My latest method, AEGIS, is presented in a manuscript currently under review at *Pattern Recognition*. Earlier research in this direction received a Paper Award at the 2024 IEIE Autumn Annual Conference.
 
-**Low-light object detection.**
-Improved object detection on industrial yard footage where the imaging condition itself is the
-bottleneck, addressed through low-light data augmentation rather than by changing the
-detector.
+**Low-light Object Detection.**
+The goal is to improve object detection in night-time industrial environments, where poor illumination limits detection reliability. The approach combines diffusion-based data augmentation during training with low-light image enhancement at inference time, without modifying the underlying detector architecture.
 
-**Real-time pose estimation.**
-Form correction for the three powerlifting movements, designed to give feedback during
-the lift rather than from a recording afterwards. Published in *IEEE Access* and
-[cited 32 times](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C).
+**Real-time Human Pose Estimation and Posture Correction.**
+I investigated a real-time posture correction system using human pose estimation to assess exercise form and provide corrective feedback during the three major powerlifting movements: squat, bench press, and deadlift. Unlike post-workout video analysis, the system provides immediate feedback during exercise. This work was published in *IEEE Access* and has been [cited 33 times](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C).
 
 <br>
 
@@ -62,7 +39,7 @@ the lift rather than from a recording afterwards. Published in *IEEE Access* and
 
 <table>
 <tr><td width="128" valign="top"><b>M.S.</b><br><sub>Feb 2026</sub></td>
-<td><b>Information Convergence Engineering</b>, (Artificial Intelligence)<br>
+<td><b>Information Convergence Engineering</b> (Artificial Intelligence)<br>
 Pusan National University<br>
 <sub>Visual Intelligence and Perception Laboratory &nbsp;·&nbsp; advised by Prof. Jinsun Park</sub></td></tr>
 
@@ -81,13 +58,13 @@ Dongguk University</td></tr>
 <tr><td width="132" valign="top"><b>Under review</b></td>
 <td><b>AEGIS</b><br>
 <b>Ko, Y.</b> et al.<br>
-<i>Pattern Recognition</i> (Elsevier). &nbsp;<sub>project page: TBA</sub></td></tr>
+<i>Pattern Recognition</i>. &nbsp;<sub>project page: TBA</sub></td></tr>
 
 <tr><td valign="top"><b>2024</b></td>
 <td>Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe<br>
 <b>Ko, Y.-M.</b>, Nasridinov, A., Park, S.-H.<br>
 <i>IEEE Access</i>, 2024.
-&nbsp;<b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C">Cited by 32</a></b>
+&nbsp;<b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C">Cited by 33</a></b>
 &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10798440">paper</a>
 &nbsp;<a href="https://github.com/PSLeon24/AI_Exercise_Pose_Feedback">code</a></td></tr>
 </table>
@@ -100,7 +77,7 @@ Dongguk University</td></tr>
 <b>Ko, Y.</b>, Park, J.<br>
 <i>Journal of the Institute of Electronics and Information Engineers (IEIE)</i>, 2025.
 &nbsp;<a href="https://github.com/PSLeon24/Data-Augmentation-for-Robust-Object-Detection-in-Low-Light-Conditions">code</a><br>
-<b>KCI Excellence-Accredited</b> <sub>— the highest tier of the Korea Citation Index</sub></td></tr>
+<b>KCI Excellent Accredited Journal</b> <sub>— the highest tier of the Korea Citation Index</sub></td></tr>
 </table>
 
 #### Domestic Conference
@@ -126,23 +103,6 @@ Park, H., Park, J., <b>Ko, Y.</b>, Park, J.<br>
 
 <br>
 
-## Work in Progress
-
-<sub>Not yet peer reviewed. No results are reported here.</sub>
-
-**Graph digitization of P&ID drawings.** Recovering the process graph a piping and
-instrumentation diagram encodes — what connects to what, and in which direction — by
-treating each piperun as an edge whose identity must hold across the reducers, tag
-breaks, and crossings that interrupt it, rather than as a symbol-detection problem.
-
-**Binocular asymmetry in paired-organ grading.** Measuring what bilateral fusion costs
-the patients whose two organs disagree, identifying the mechanism behind that cost, and
-testing whether a correction recovers it without giving up the population-level gain.
-Evaluated on retinal grading, knee osteoarthritis, and mammography under a single
-protocol, so the finding is not a property of one dataset.
-
-<br>
-
 ## Code
 
 **[Low-Light Object Detection](https://github.com/PSLeon24/Data-Augmentation-for-Robust-Object-Detection-in-Low-Light-Conditions)** — framework for object
@@ -163,8 +123,7 @@ from papers, reimplemented in PyTorch.
 
 ## AI Foundations
 
-Notes and worked exercises kept while studying the mathematics and the methods the
-models rest on.
+Study notes, mathematical foundations, and hands-on implementations of core AI methods.
 
 | Repository | Contents |
 | --- | --- |
@@ -184,7 +143,7 @@ models rest on.
 `Python` &nbsp;`PyTorch` &nbsp;`NumPy` &nbsp;`pandas` &nbsp;`scikit-learn` &nbsp;`CUDA` &nbsp;`Linux` &nbsp;`Docker` &nbsp;`AWS`
 
 <details>
-<summary>Web and mobile, from earlier work</summary>
+<summary>Earlier Web & Mobile Projects</summary>
 
 <br>
 
