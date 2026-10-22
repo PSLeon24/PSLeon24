@@ -12,13 +12,13 @@ Agentic AI &nbsp;·&nbsp; Generative Models &nbsp;·&nbsp; Computer Vision
 <a href="https://psleon.tistory.com">Blog</a>
 <br>
 
-I focus on agentic AI and computer vision tasks with practical real-world applications: constructing agentic AI systems that interpret P&ID and transform them into structured engineering data, designing adversarial perturbations to disrupt deepfake synthesis, and building real-time human posture feedback systems, such as powerlifting form correction.
+I focus on agentic AI and computer vision tasks with practical real-world applications: constructing agentic AI systems that interpret Piping and instrumentation diagrams (P&IDs) and transform them into structured engineering data, designing adversarial perturbations to disrupt deepfake synthesis, and building real-time human posture feedback systems, such as powerlifting form correction.
 <br>
 
 ## Research
 
 **Engineering Diagram Digitization.** (Ongoing research; findings have not yet undergone peer review.)
-Piping and instrumentation diagrams (P&IDs) drawings encode process topology through equipment, instruments, and their interconnections, but PDF representations often lack explicit machine-readable structure. I work on reconstructing this topology as an enriched knowledge graph, tracing pipe runs through reducers, T-junctions, and off-page connectors while tracking line continuity and identifying line-number changes. The goal is to automatically generate structured Line Listings and Instrument Listings from raw P&ID PDFs, including FROM/TO connectivity, line identifiers, operating pressure, and other engineering attributes.
+P&IDs encode process topology through equipment, instruments, and their interconnections, but PDF representations often lack explicit machine-readable structure. I work on reconstructing this topology as an enriched knowledge graph, tracing pipe runs through reducers, T-junctions, and off-page connectors while tracking line continuity and identifying line-number changes. The goal is to automatically generate structured Line Listings and Instrument Listings from raw P&ID PDFs, including FROM/TO connectivity, line identifiers, operating pressure, and other engineering attributes.
 
 **Bilateral Asymmetry in Medical Imaging.** (Ongoing research; findings have not yet undergone peer review.)
 Recent models that consider information from paired organs can improve overall predictive performance, but this benefit may not extend to patients with substantial left–right asymmetry. I investigate whether and when bilateral fusion improves population-level performance at the expense of predictions for asymmetric cases, and whether asymmetry-aware approaches can mitigate this trade-off without sacrificing overall accuracy.
