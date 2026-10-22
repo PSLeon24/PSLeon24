@@ -17,17 +17,17 @@ I focus on agentic AI and computer vision tasks with practical real-world applic
 
 ## Research
 
-**Engineering diagram digitization.** (Ongoing research; findings have not yet undergone peer review.)
-Piping and instrumentation diagrams (P&IDs) encode process topology through equipment, instruments, and their interconnections, but PDF representations often lack explicit machine-readable structure. I work on reconstructing this topology as an enriched knowledge graph, tracing pipe runs through reducers, T-junctions, and off-page connectors while tracking line continuity and identifying line-number changes. The goal is to automatically generate structured Line Listings and Instrument Listings from raw P&ID PDFs, including FROM/TO connectivity, line identifiers, operating pressure, and other engineering attributes.
+**Engineering Diagram Digitization.** (Ongoing research; findings have not yet undergone peer review.)
+Piping and instrumentation diagrams (P&IDs) drawings encode process topology through equipment, instruments, and their interconnections, but PDF representations often lack explicit machine-readable structure. I work on reconstructing this topology as an enriched knowledge graph, tracing pipe runs through reducers, T-junctions, and off-page connectors while tracking line continuity and identifying line-number changes. The goal is to automatically generate structured Line Listings and Instrument Listings from raw P&ID PDFs, including FROM/TO connectivity, line identifiers, operating pressure, and other engineering attributes.
 
 **Bilateral Asymmetry in Medical Imaging.** (Ongoing research; findings have not yet undergone peer review.)
-Recent models that consider information from paired organs can improve overall predictive performance, but this benefit may not extend to patients with substantial left–right asymmetry. I investigate when bilateral fusion improves population-level performance while compromising predictions for asymmetric cases and whether asymmetry-aware approaches can mitigate this trade-off without sacrificing overall accuracy.
+Recent models that consider information from paired organs can improve overall predictive performance, but this benefit may not extend to patients with substantial left–right asymmetry. I investigate whether and when bilateral fusion improves population-level performance at the expense of predictions for asymmetric cases, and whether asymmetry-aware approaches can mitigate this trade-off without sacrificing overall accuracy.
 
 **Adversarial Protection against Deepfakes.**
 I proposed an adversarial protection method that disrupts the unauthorized use of facial images in diffusion-based deepfake generation by applying perturbations to the original images before synthesis, rather than detecting manipulated content afterward. My latest method, AEGIS, is presented in a manuscript currently under review at *Pattern Recognition*. Earlier research in this direction received a Paper Award at the 2024 IEIE Autumn Annual Conference.
 
 **Low-light Object Detection.**
-The goal is to improve object detection in nighttime industrial environments, where poor illumination limits detection reliability. The approach combines diffusion-based data augmentation during training with low-light image enhancement at inference time, without modifying the underlying detector architecture.
+I proposed an approach to improve object detection in nighttime industrial environments, where poor illumination limits detection reliability. The approach combines diffusion-based data augmentation during training with low-light image enhancement at inference time, without modifying the underlying detector architecture.
 
 **Real-time Human Pose Estimation and Posture Correction.**
 I proposed a real-time posture correction system using human pose estimation to assess exercise form and provide corrective feedback during the three major powerlifting movements: squat, bench press, and deadlift. Unlike post-workout video analysis, the system provides immediate feedback during exercise. This work was published in *IEEE Access* and has been [cited 33 times](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C).
