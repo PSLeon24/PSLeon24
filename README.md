@@ -12,7 +12,7 @@ Agentic AI &nbsp;·&nbsp; Generative Models &nbsp;·&nbsp; Computer Vision
 <a href="https://psleon.tistory.com">Blog</a>
 <br>
 
-I focus on agentic AI and computer vision tasks with practical real-world applications: developing agentic AI systems that interpret Piping and instrumentation diagrams (P&IDs) and transform them into structured engineering data, designing adversarial perturbations to disrupt deepfake synthesis, and building real-time human posture feedback systems, such as powerlifting form correction.
+I focus on agentic AI and computer vision tasks with practical real-world applications: developing agentic AI systems that interpret piping and instrumentation diagrams (P&IDs) and transform them into structured engineering data, designing adversarial perturbations to disrupt deepfake synthesis, and building real-time human posture feedback systems, such as powerlifting form correction.
 <br>
 
 ## Research
