@@ -9,8 +9,7 @@ Computer Vision &nbsp;·&nbsp; Engineering Diagram Digitization &nbsp;·&nbsp; A
 <a href="mailto:yeongminko@deepauto.ai">Email</a> &nbsp;·&nbsp;
 <a href="https://github.com/PSLeon24">GitHub</a> &nbsp;·&nbsp;
 <a href="https://scholar.google.com/citations?hl=en&user=c-j-mAsAAAAJ">Google Scholar</a> &nbsp;·&nbsp;
-<a href="https://psleon.tistory.com">Blog</a> &nbsp;·&nbsp;
-
+<a href="https://psleon.tistory.com">Blog</a>
 <br>
 
 I focus on agentic AI and computer vision tasks with directly useful real-world applications: constructing an agentic system that interprets P&ID and transforms them into structured engineering data, designing adversarial perturbations to disrupt deepfake synthesis, and building real-time human posture feedback systems, such as powerlifting form correction.
@@ -28,7 +27,7 @@ Recent models that consider information from paired organs can improve overall p
 I investigated an adversarial protection method that disrupts the unauthorized use of facial images in diffusion-based deepfake generation by applying perturbations to the original images before synthesis, rather than detecting manipulated content afterward. My latest method, AEGIS, is presented in a manuscript currently under review at *Pattern Recognition*. Earlier research in this direction received a Paper Award at the 2024 IEIE Autumn Annual Conference.
 
 **Low-light Object Detection.**
-The goal is to improve object detection in night-time industrial environments, where poor illumination limits detection reliability. The approach combines diffusion-based data augmentation during training with low-light image enhancement at inference time, without modifying the underlying detector architecture.
+The goal is to improve object detection in nighttime industrial environments, where poor illumination limits detection reliability. The approach combines diffusion-based data augmentation during training with low-light image enhancement at inference time, without modifying the underlying detector architecture.
 
 **Real-time Human Pose Estimation and Posture Correction.**
 I investigated a real-time posture correction system using human pose estimation to assess exercise form and provide corrective feedback during the three major powerlifting movements: squat, bench press, and deadlift. Unlike post-workout video analysis, the system provides immediate feedback during exercise. This work was published in *IEEE Access* and has been [cited 33 times](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C).
@@ -41,14 +40,18 @@ I investigated a real-time posture correction system using human pose estimation
 <tr><td width="128" valign="top"><b>M.S.</b><br><sub>Feb 2026</sub></td>
 <td><b>Information Convergence Engineering</b> (Artificial Intelligence)<br>
 Pusan National University<br>
-<sub>Visual Intelligence and Perception Laboratory &nbsp;·&nbsp; advised by Prof. Jinsun Park</sub></td></tr>
+<sub><b>GPA: 4.50/4.50</b> &nbsp;·&nbsp; Graduated one semester early</sub><br>
+<sub>Visual Intelligence and Perception Laboratory &nbsp;·&nbsp; Advisor: Prof. Jinsun Park</sub></td></tr>
 
 <tr><td valign="top"><b>B.S.</b><br><sub>Aug 2024</sub></td>
 <td><b>Computer Engineering</b><br>
-Dongguk University</td></tr>
+Dongguk University<br>
+<sub><b>GPA: 4.33/4.50</b> &nbsp;·&nbsp; Graduated one semester early</sub><br>
+<sub>Data Analytics Laboratory &nbsp;·&nbsp; Advisor: Prof. So-Hyun Park</sub></td></tr>
 </table>
 
 <br>
+
 
 ## Publications
 
@@ -56,12 +59,17 @@ Dongguk University</td></tr>
 
 <table>
 <tr><td width="132" valign="top"><b>Under review</b></td>
+<td><b>Dataset for Automatic Piano Performance Evaluation with Human Ratings</b><br>
+Chuluunsaikhan, T., <b>Ko, Y.-M.</b>, Park, S.-H.<br>
+<i>Scientific Data</i></td></tr>
+
+<tr><td width="132" valign="top"><b>Under review</b></td>
 <td><b>AEGIS</b><br>
-<b>Ko, Y.</b> et al.<br>
-<i>Pattern Recognition</i>. &nbsp;<sub>project page: TBA</sub></td></tr>
+<b>Ko, Y.-M.</b>, et al.<br>
+<i>Pattern Recognition</i></td></tr>
 
 <tr><td valign="top"><b>2024</b></td>
-<td>Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe<br>
+<td><b>Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe</b><br>
 <b>Ko, Y.-M.</b>, Nasridinov, A., Park, S.-H.<br>
 <i>IEEE Access</i>, 2024.
 &nbsp;<b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C">Cited by 33</a></b>
@@ -73,8 +81,8 @@ Dongguk University</td></tr>
 
 <table>
 <tr><td width="132" valign="top"><b>2025</b></td>
-<td>Low-Light Data Augmentation-based Object Detection for Nighttime Smart Yard Safety Management<br>
-<b>Ko, Y.</b>, Park, J.<br>
+<td><b>Low-Light Data Augmentation-based Object Detection for Nighttime Smart Yard Safety Management</b><br>
+<b>Ko, Y.-M.</b>, Park, J.-S.<br>
 <i>Journal of the Institute of Electronics and Information Engineers (IEIE)</i>, 2025.
 &nbsp;<a href="https://github.com/PSLeon24/Data-Augmentation-for-Robust-Object-Detection-in-Low-Light-Conditions">code</a><br>
 <b>KCI Excellent Accredited Journal</b> <sub>— the highest tier of the Korea Citation Index</sub></td></tr>
@@ -84,19 +92,19 @@ Dongguk University</td></tr>
 
 <table>
 <tr><td width="132" valign="top"><b>2025</b></td>
-<td>Stable Diffusion-based Deepfake Creation Disruption Using Adversarial Attacks<br>
-<b>Ko, Y.</b>, Park, J.<br>
+<td><b>Stable Diffusion-based Deepfake Creation Disruption Using Adversarial Attacks</b><br>
+<b>Ko, Y.-M.</b>, Park, J.-S.<br>
 <i>37th Workshop on Image Processing and Image Understanding (IPIU)</i>, 2025.
 &nbsp;<a href="https://github.com/PSLeon24/Anti-StableDiffusion">code</a></td></tr>
 
 <tr><td valign="top"><b>2025</b></td>
-<td>Approximation of Omnidirectional Camera Distortion Models for COLMAP Using a Virtual Checkerboard<br>
-Park, H., Park, J., <b>Ko, Y.</b>, Park, J.<br>
+<td><b>Approximation of Omnidirectional Camera Distortion Models for COLMAP Using a Virtual Checkerboard</b><br>
+Park, H.-S., Park, J.-H., <b>Ko, Y.-M.</b>, Park, J.-S.<br>
 <i>Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE)</i>, 2025.</td></tr>
 
 <tr><td valign="top"><b>2024</b> &nbsp;🏅</td>
-<td>Disrupting Deepfake Generation with KL Divergence-based Adversarial Attacks<br>
-<b>Ko, Y.</b>, Park, H., Park, J.<br>
+<td><b>Disrupting Deepfake Generation with KL Divergence-based Adversarial Attacks</b><br>
+<b>Ko, Y.-M.</b>, Park, H.-S., Park, J.-S.<br>
 <i>Autumn Annual Conference of the Institute of Electronics and Information Engineers (IEIE)</i>, 2024, pp. 1178–1182.
 &nbsp;<b>Paper Award</b></td></tr>
 </table>
