@@ -38,7 +38,7 @@ I proposed a real-time posture correction system using human pose estimation to 
 
 <table>
 <tr><td width="128" valign="top"><b>M.S.</b><br><sub>Feb 2026</sub></td>
-<td><b>Information Convergence Engineering</b> (Artificial Intelligence)<br>
+<td><b>Information Convergence Engineering</b> (AI)<br>
 Pusan National University<br>
 <sub><b>GPA: 4.50/4.50</b> &nbsp;·&nbsp; Graduated one semester early</sub><br>
 <sub>Visual Intelligence and Perception Laboratory &nbsp;·&nbsp; Advisor: Prof. Jinsun Park</sub></td></tr>
