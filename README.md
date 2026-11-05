@@ -17,7 +17,7 @@ I focus on agentic AI and computer vision tasks with practical real-world applic
 
 ## Research
 
-**Engineering Diagram Digitization.** (Ongoing research; findings have not yet undergone peer review.)
+**Engineering Diagram Digitization.**
 P&IDs encode process topology through equipment, instruments, and their interconnections, but PDF representations often lack explicit machine-readable structure. I work on reconstructing this topology as an enriched knowledge graph, tracing pipe runs through reducers, T-junctions, and off-page connectors while tracking line continuity and identifying line-number changes. The goal is to automatically generate structured Line Listings and Instrument Listings from raw P&ID PDFs, including FROM/TO connectivity, line identifiers, operating pressure, and other engineering attributes.
 
 **Bilateral Asymmetry in Medical Imaging.** (Ongoing research; findings have not yet undergone peer review.)
