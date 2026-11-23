@@ -30,7 +30,7 @@ I proposed an adversarial protection method that disrupts the unauthorized use o
 I proposed an approach to improve object detection in nighttime industrial environments, where poor illumination limits detection reliability. The approach combines diffusion-based data augmentation during training with low-light image enhancement at inference time, without modifying the underlying detector architecture.
 
 **Real-time Human Pose Estimation and Posture Correction.**
-I proposed a real-time posture correction system using human pose estimation to assess exercise form and provide corrective feedback during the three major powerlifting movements: squat, bench press, and deadlift. Unlike post-workout video analysis, the system provides immediate feedback during exercise. This work was published in *IEEE Access* and has been [cited 33 times](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C).
+I proposed a real-time posture correction system using human pose estimation to assess exercise form and provide corrective feedback during the three major powerlifting movements: squat, bench press, and deadlift. Unlike post-workout video analysis, the system provides immediate feedback during exercise. This work was published in *IEEE Access* and has been [cited 37 times](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C).
 
 <br>
 
@@ -72,7 +72,7 @@ Chuluunsaikhan, T., <b>Ko, Y.-M.</b>, Park, S.-H.<br>
 <td><b>Real-Time AI Posture Correction for Powerlifting Exercises Using YOLOv5 and MediaPipe</b><br>
 <b>Ko, Y.-M.</b>, Nasridinov, A., Park, S.-H.<br>
 <i>IEEE Access</i>, 2024.
-&nbsp;<b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C">Cited by 33</a></b>
+&nbsp;<b><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c-j-mAsAAAAJ&citation_for_view=c-j-mAsAAAAJ:u5HHmVD_uO8C">Cited by 37</a></b>
 &nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10798440">paper</a>
 &nbsp;<a href="https://github.com/PSLeon24/AI_Exercise_Pose_Feedback">code</a></td></tr>
 </table>
